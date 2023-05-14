@@ -3640,7 +3640,7 @@
   )
 
   (symbol (lib_id "Device:R_Potentiometer") (at 44.45 132.08 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board no)
     (uuid 0c77e020-fe01-4e98-9826-a3ce829538ad)
     (property "Reference" "R18" (id 0) (at 41.91 132.08 90))
     (property "Value" "100K" (id 1) (at 44.45 132.08 90))
@@ -4109,7 +4109,7 @@
   )
 
   (symbol (lib_id "Device:R_Potentiometer") (at 99.06 107.95 90) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board no)
     (uuid 34f51d20-fee4-49ca-afeb-ede53890811a)
     (property "Reference" "R15" (id 0) (at 99.06 110.49 90))
     (property "Value" "100K" (id 1) (at 99.06 107.95 90))
@@ -4158,7 +4158,7 @@
   )
 
   (symbol (lib_id "Connector:Barrel_Jack") (at 273.05 218.44 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board no)
     (uuid 3a8251bb-2ba0-40ea-888e-23daf4abf5e0)
     (property "Reference" "J6" (id 0) (at 278.13 218.44 0))
     (property "Value" "Barrel_Jack" (id 1) (at 279.4 218.44 0)
@@ -4222,7 +4222,7 @@
   )
 
   (symbol (lib_id "Connector:Barrel_Jack") (at 44.45 167.64 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board no)
     (uuid 403fd629-e2d4-45b1-9460-61f1973a54b5)
     (property "Reference" "J4" (id 0) (at 39.37 167.64 0))
     (property "Value" "Barrel_Jack" (id 1) (at 38.1 167.64 0)
@@ -4330,7 +4330,7 @@
   )
 
   (symbol (lib_id "Switch:SW_SPST") (at 38.1 60.96 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board no)
     (uuid 49f203ca-1d51-4cc3-b4b4-6aa2a6684e96)
     (property "Reference" "S1" (id 0) (at 39.37 57.15 0))
     (property "Value" "SW_SPST" (id 1) (at 38.1 57.15 0)
@@ -4425,7 +4425,7 @@
   )
 
   (symbol (lib_id "Connector:Barrel_Jack") (at 44.45 184.15 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board no)
     (uuid 4e6db472-a629-4005-bcb4-8ec44101d7b9)
     (property "Reference" "J5" (id 0) (at 39.37 184.15 0))
     (property "Value" "Barrel_Jack" (id 1) (at 38.1 184.15 0)
@@ -5308,7 +5308,7 @@
   )
 
   (symbol (lib_id "Connector:Barrel_Jack") (at 31.75 36.83 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board no)
     (uuid 8ddaf12a-7bd8-481a-a443-e2cd3e8ff093)
     (property "Reference" "J1" (id 0) (at 31.75 31.75 0))
     (property "Value" "Barrel_Jack" (id 1) (at 31.75 30.48 0)
@@ -5631,7 +5631,7 @@
   )
 
   (symbol (lib_id "Device:R_Potentiometer") (at 45.72 93.98 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board no)
     (uuid a81da303-6cab-49a1-a9fe-60fe11f622d9)
     (property "Reference" "R8" (id 0) (at 43.18 93.98 90))
     (property "Value" "100K" (id 1) (at 45.72 93.98 90))
@@ -5662,7 +5662,7 @@
   )
 
   (symbol (lib_id "Connector:Barrel_Jack") (at 214.63 46.99 270) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board no)
     (uuid b1c34899-6b12-4166-9455-593f486d378b)
     (property "Reference" "J2" (id 0) (at 219.71 46.99 0))
     (property "Value" "Barrel_Jack" (id 1) (at 220.98 46.99 0)
@@ -5903,7 +5903,7 @@
   )
 
   (symbol (lib_id "Device:R_Potentiometer") (at 46.99 38.1 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board no)
     (uuid c57fcf90-cb69-4b19-ba54-43d2846f3ae5)
     (property "Reference" "R1" (id 0) (at 44.45 38.1 90))
     (property "Value" "100K" (id 1) (at 46.99 38.1 90))
@@ -6151,7 +6151,7 @@
   )
 
   (symbol (lib_id "Device:R_Potentiometer") (at 77.47 54.61 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board no)
     (uuid d3f179c5-4261-4a05-bc1c-83bd79b7b3b9)
     (property "Reference" "R4" (id 0) (at 77.47 57.15 90))
     (property "Value" "100K" (id 1) (at 77.47 54.61 90))
@@ -6561,7 +6561,7 @@
   )
 
   (symbol (lib_id "Connector:Barrel_Jack") (at 31.75 92.71 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board no)
     (uuid f0351bd2-8ecf-43e3-88b0-8b098da54de0)
     (property "Reference" "J3" (id 0) (at 31.75 97.79 0))
     (property "Value" "Barrel_Jack" (id 1) (at 31.75 99.06 0)
@@ -6578,7 +6578,7 @@
   )
 
   (symbol (lib_id "Switch:SW_SPDT") (at 95.25 63.5 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid f0b5732a-ed28-46b5-b8c1-9d8767c7303e)
     (property "Reference" "S2" (id 0) (at 95.25 58.42 0))
     (property "Value" "SW_SPDT" (id 1) (at 95.25 58.42 0)
@@ -6646,7 +6646,7 @@
   )
 
   (symbol (lib_id "Device:R_Potentiometer") (at 44.45 153.67 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board no)
     (uuid f5f66989-a6fc-4072-9525-8697f0df89fe)
     (property "Reference" "R23" (id 0) (at 41.91 153.67 90))
     (property "Value" "100K" (id 1) (at 44.45 153.67 90))
