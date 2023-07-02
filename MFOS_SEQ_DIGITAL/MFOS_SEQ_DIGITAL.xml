@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/hw/kicad_projects/synth/MFOS_SEQ_DIGITAL/MFOS_SEQ_DIGITAL.kicad_sch</source>
-    <date>Fri 26 May 2023 09:53:58 AM EDT</date>
+    <date>Sun 02 Jul 2023 11:42:36 AM EDT</date>
     <tool>Eeschema 6.0.8-f2edbf62ab~116~ubuntu22.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -98,7 +98,7 @@
     </comp>
     <comp ref="C10">
       <value>1uF</value>
-      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <libsource lib="dhk" part="C_Tantalum" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -526,245 +526,45 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d22d44ed-ef0e-4ba1-bb9b-e8a47fc60000</tstamps>
     </comp>
-    <comp ref="J1">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+    <comp ref="J31">
+      <value>Jack-DC</value>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>88e4cb6e-9845-4bca-8a0c-0b5bd01a0a2e</tstamps>
+      <tstamps>322dcf8c-1b77-45c3-801d-ded0a07b853f</tstamps>
     </comp>
-    <comp ref="J2">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+    <comp ref="J32">
+      <value>Jack-DC</value>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>32ae21a3-171d-4cd8-b0bb-0c180db51769</tstamps>
+      <tstamps>542756eb-1c9e-4f0d-8817-e5b4bab76d42</tstamps>
     </comp>
-    <comp ref="J3">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+    <comp ref="J33">
+      <value>Jack-DC</value>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>20ae2603-444b-4e7a-b884-41d15054198c</tstamps>
+      <tstamps>d07025c8-4f72-46a4-b666-e81064ca25c0</tstamps>
     </comp>
-    <comp ref="J4">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+    <comp ref="J34">
+      <value>Jack-DC</value>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>17350b0f-aa3f-4616-b255-7287c725bf43</tstamps>
+      <tstamps>1e54b421-3733-47ef-9670-807c636b5dd2</tstamps>
     </comp>
-    <comp ref="J5">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+    <comp ref="J35">
+      <value>Jack-DC</value>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>d8b1368a-f937-42f7-8740-c45ac18fa2ae</tstamps>
-    </comp>
-    <comp ref="J6">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>320fa58e-d898-483b-8035-c04a93a622c0</tstamps>
-    </comp>
-    <comp ref="J7">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>2260597d-a33c-4bfc-934a-91cd7193761e</tstamps>
-    </comp>
-    <comp ref="J8">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>3730e3bb-44bf-4065-bc90-a1fcf013764c</tstamps>
-    </comp>
-    <comp ref="J9">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>4d268aec-4af1-4aa3-9bef-3b37f49fa58b</tstamps>
-    </comp>
-    <comp ref="J10">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>2b4439d8-54a4-4d93-bb46-c928080fedee</tstamps>
-    </comp>
-    <comp ref="J11">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>bc2b83d6-0477-4ff9-a941-6e5131ce1fd7</tstamps>
-    </comp>
-    <comp ref="J12">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>dd9b4100-4218-4c6e-8a0c-2d17144d0f04</tstamps>
-    </comp>
-    <comp ref="J13">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>1841aa36-adc4-4a09-bb6f-6729480d1d50</tstamps>
-    </comp>
-    <comp ref="J14">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>81aface0-273f-411e-8eb7-21dd217bb52d</tstamps>
-    </comp>
-    <comp ref="J15">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>3d5268d9-86e1-44eb-a5ff-0c5c025db889</tstamps>
-    </comp>
-    <comp ref="J16">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>15706db0-f657-463d-a827-078b57544304</tstamps>
-    </comp>
-    <comp ref="J17">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>55f601c4-73d6-4800-bc66-8f3b255ecc63</tstamps>
-    </comp>
-    <comp ref="J18">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>efca14d3-fdd8-4144-8712-6ba1f5167452</tstamps>
-    </comp>
-    <comp ref="J19">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>c1b371e9-954c-4102-a42a-2e14fb0d6318</tstamps>
-    </comp>
-    <comp ref="J20">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>739dfc65-eeea-429d-8da6-0986b2ab13c8</tstamps>
-    </comp>
-    <comp ref="J21">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>a2126abf-450d-48a2-adbc-64033c5f9811</tstamps>
-    </comp>
-    <comp ref="J22">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>74906bc5-4f63-4b4a-83a1-c9464edb3ab3</tstamps>
-    </comp>
-    <comp ref="J23">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>d51516b5-d665-4032-b182-645d5aecf320</tstamps>
-    </comp>
-    <comp ref="J24">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>2ee20f5e-a133-4d9c-8e8a-eccc3600a13b</tstamps>
-    </comp>
-    <comp ref="J25">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>b66654a1-8b8d-4120-9e3d-1b4f55fa6b28</tstamps>
-    </comp>
-    <comp ref="J26">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>bec6dff7-8256-4ce1-9e13-1dc13c5574c6</tstamps>
-    </comp>
-    <comp ref="J27">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>51b85519-d7aa-4367-9a29-78385193b3d4</tstamps>
-    </comp>
-    <comp ref="J28">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>0cb5f3a1-680a-409c-90b5-d31399c5305e</tstamps>
-    </comp>
-    <comp ref="J29">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>cbcd2ded-a15c-488b-853b-0a3dfa9cf2b6</tstamps>
-    </comp>
-    <comp ref="J30">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>1262b55a-a9ea-45ba-9aee-6d833796ac47</tstamps>
+      <tstamps>772ebce5-8b87-4ad2-806e-e57b4750bb9c</tstamps>
     </comp>
     <comp ref="LED1">
       <value>LED</value>
@@ -1145,7 +945,7 @@
       <tstamps>fe497701-d683-46e1-bac6-e2ac3565ae3d</tstamps>
     </comp>
     <comp ref="R30">
-      <value>3K</value>
+      <value>1K</value>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
@@ -1353,7 +1153,7 @@
       <tstamps>96def46a-b0ce-4e45-a8b2-b928413fd911</tstamps>
     </comp>
     <comp ref="S9">
-      <value>SW_Rotary12</value>
+      <value>SP12T</value>
       <datasheet>http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf</datasheet>
       <libsource lib="Switch" part="SW_Rotary12" description="rotary switch with 12 positions"/>
       <property name="Sheetname" value=""/>
@@ -1378,7 +1178,7 @@
       <tstamps>454c48a8-02c8-4795-aaf7-69e5994c6b3b</tstamps>
     </comp>
     <comp ref="S12">
-      <value>SW_DPDT_x2</value>
+      <value>DPDT   </value>
       <libsource lib="Switch" part="SW_DPDT_x2" description="Switch, dual pole double throw, separate symbols"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
@@ -1466,7 +1266,7 @@
       <tstamps>cb0fd640-d098-4a6e-aaf5-d897b075436f</tstamps>
     </comp>
     <comp ref="S25">
-      <value>SW_Rotary1x4</value>
+      <value>SP4T</value>
       <datasheet>http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf</datasheet>
       <libsource lib="dhk" part="SW_Rotary1x4" description="3 rotary switches with 4 positions"/>
       <property name="Sheetname" value=""/>
@@ -1524,7 +1324,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_SEQ_DIGITAL.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>c7f27e0d-9f0f-40dd-9c16-575bb39546fd 9a680ad1-0846-4e17-a80b-f7f436ae55a2 7d26a4f8-d2b3-403e-89fa-242e9c786d64 c172e091-5ded-46ba-9ba8-f042ecba7fc2 e6c19dc6-c7c6-40f8-8bd7-232b333e7516 44b6dfb1-abe5-4142-8823-763814b39f28 0a6ea467-3ba1-40bd-9c1e-0e386f16c959</tstamps>
+      <tstamps>c7f27e0d-9f0f-40dd-9c16-575bb39546fd 9a680ad1-0846-4e17-a80b-f7f436ae55a2 44b6dfb1-abe5-4142-8823-763814b39f28 c172e091-5ded-46ba-9ba8-f042ecba7fc2 e6c19dc6-c7c6-40f8-8bd7-232b333e7516 7d26a4f8-d2b3-403e-89fa-242e9c786d64 0a6ea467-3ba1-40bd-9c1e-0e386f16c959</tstamps>
     </comp>
     <comp ref="U7">
       <value>TL082</value>
@@ -1690,6 +1490,22 @@
         <pin num="6" name="-" type="input"/>
         <pin num="7" name="" type="output"/>
         <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Jack-DC">
+      <description>DC Barrel Jack</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Jack-DC</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="Connector_Generic" part="Conn_01x01">
@@ -1896,6 +1712,22 @@
         <pin num="3" name="C" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="dhk" part="C_Tantalum">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Tantalum</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
     <libpart lib="dhk" part="HC4094">
       <description>8-bit serial in/out Shift Register 3-State Outputs</description>
       <docs>https://assets.nexperia.com/documents/data-sheet/74HC_HCT4094.pdf</docs>
@@ -1957,6 +1789,9 @@
     <library logical="Amplifier_Operational">
       <uri>/usr/share/kicad/symbols//Amplifier_Operational.kicad_sym</uri>
     </library>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
     <library logical="Connector_Generic">
       <uri>/usr/share/kicad/symbols//Connector_Generic.kicad_sym</uri>
     </library>
@@ -1981,7 +1816,6 @@
       <node ref="C19" pin="2" pintype="passive"/>
       <node ref="C20" pin="1" pintype="passive"/>
       <node ref="C24" pin="2" pintype="passive"/>
-      <node ref="J20" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R12" pin="2" pintype="passive"/>
       <node ref="R15" pin="2" pintype="passive"/>
       <node ref="R16" pin="1" pintype="passive"/>
@@ -2028,11 +1862,10 @@
       <node ref="R30" pin="2" pintype="passive"/>
     </net>
     <net code="4" name="CKOUT">
-      <node ref="J28" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J35" pin="2" pintype="passive"/>
       <node ref="R41" pin="2" pintype="passive"/>
     </net>
     <net code="5" name="CLK">
-      <node ref="J19" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R10" pin="1" pintype="passive"/>
       <node ref="R11" pin="1" pintype="passive"/>
       <node ref="R19" pin="3" pinfunction="3" pintype="passive"/>
@@ -2043,7 +1876,6 @@
     <net code="6" name="CLR">
       <node ref="D31" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R40" pin="1" pintype="passive"/>
       <node ref="S25" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U4" pin="14" pinfunction="MR" pintype="input"/>
@@ -2071,7 +1903,7 @@
     </net>
     <net code="12" name="GATE">
       <node ref="C12" pin="2" pintype="passive"/>
-      <node ref="J27" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J33" pin="2" pintype="passive"/>
       <node ref="R27" pin="2" pintype="passive"/>
     </net>
     <net code="13" name="GB">
@@ -2109,7 +1941,11 @@
       <node ref="C3" pin="1" pintype="passive"/>
       <node ref="C7" pin="2" pintype="passive"/>
       <node ref="C8" pin="1" pintype="passive"/>
-      <node ref="J24" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J31" pin="1" pintype="passive"/>
+      <node ref="J32" pin="1" pintype="passive"/>
+      <node ref="J33" pin="1" pintype="passive"/>
+      <node ref="J34" pin="1" pintype="passive"/>
+      <node ref="J35" pin="1" pintype="passive"/>
       <node ref="LED1" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R13" pin="1" pintype="passive"/>
       <node ref="R14" pin="1" pintype="passive"/>
@@ -2476,24 +2312,20 @@
       <node ref="U5" pin="22" pinfunction="A3" pintype="input"/>
     </net>
     <net code="87" name="R19-1&amp;2">
-      <node ref="J18" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R18" pin="2" pintype="passive"/>
       <node ref="R19" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="R19" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="88" name="REV">
       <node ref="C5" pin="2" pintype="passive"/>
-      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R13" pin="2" pintype="passive"/>
       <node ref="S25" pin="1" pinfunction="1" pintype="passive"/>
     </net>
     <net code="89" name="RIN">
-      <node ref="J17" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="LED1" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R24" pin="2" pintype="passive"/>
     </net>
     <net code="90" name="RND">
-      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R12" pin="1" pintype="passive"/>
       <node ref="S12" pin="6" pinfunction="C" pintype="passive"/>
       <node ref="U4" pin="11" pinfunction="LOAD" pintype="input"/>
@@ -2501,7 +2333,6 @@
     <net code="91" name="RST">
       <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="J25" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="U2" pin="6" pintype="output"/>
     </net>
     <net code="92" name="S0">
@@ -2526,112 +2357,96 @@
     </net>
     <net code="96" name="S4">
       <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="LED10" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="S9" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U5" pin="7" pinfunction="Q4" pintype="output"/>
     </net>
     <net code="97" name="S5">
       <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="LED12" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="S9" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U5" pin="6" pinfunction="Q5" pintype="output"/>
     </net>
     <net code="98" name="S6">
       <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="LED14" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="S9" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="U5" pin="5" pinfunction="Q6" pintype="output"/>
     </net>
     <net code="99" name="S7">
       <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="LED16" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="S9" pin="4" pinfunction="4" pintype="passive"/>
       <node ref="U5" pin="4" pinfunction="Q7" pintype="output"/>
     </net>
     <net code="100" name="S8">
       <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="LED3" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="S9" pin="5" pinfunction="5" pintype="passive"/>
       <node ref="U5" pin="18" pinfunction="Q8" pintype="output"/>
     </net>
     <net code="101" name="S9">
       <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="LED5" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="S9" pin="6" pinfunction="6" pintype="passive"/>
       <node ref="U5" pin="17" pinfunction="Q9" pintype="output"/>
     </net>
     <net code="102" name="S10">
       <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="LED7" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="S9" pin="7" pinfunction="7" pintype="passive"/>
       <node ref="U5" pin="20" pinfunction="Q10" pintype="output"/>
     </net>
     <net code="103" name="S11">
       <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="J12" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="LED9" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="S9" pin="8" pinfunction="8" pintype="passive"/>
       <node ref="U5" pin="19" pinfunction="Q11" pintype="output"/>
     </net>
     <net code="104" name="S12">
       <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="J13" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="LED11" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="S9" pin="9" pinfunction="9" pintype="passive"/>
       <node ref="U5" pin="14" pinfunction="Q12" pintype="output"/>
     </net>
     <net code="105" name="S13">
       <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="J14" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="LED13" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="S9" pin="10" pinfunction="10" pintype="passive"/>
       <node ref="U5" pin="13" pinfunction="Q13" pintype="output"/>
     </net>
     <net code="106" name="S14">
       <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="J15" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="LED15" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="S9" pin="11" pinfunction="11" pintype="passive"/>
       <node ref="U5" pin="16" pinfunction="Q14" pintype="output"/>
     </net>
     <net code="107" name="S15">
       <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="J16" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="LED17" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="S9" pin="12" pinfunction="12" pintype="passive"/>
       <node ref="U5" pin="15" pinfunction="Q15" pintype="output"/>
     </net>
     <net code="108" name="STDN">
-      <node ref="J22" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R5" pin="1" pintype="passive"/>
       <node ref="S2" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="109" name="STP">
       <node ref="C23" pin="2" pintype="passive"/>
-      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R46" pin="1" pintype="passive"/>
       <node ref="S25" pin="3" pinfunction="3" pintype="passive"/>
     </net>
     <net code="110" name="STRN">
-      <node ref="J23" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R20" pin="2" pintype="passive"/>
       <node ref="S4" pin="1" pinfunction="1" pintype="passive"/>
     </net>
     <net code="111" name="STUP">
-      <node ref="J21" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R1" pin="1" pintype="passive"/>
       <node ref="S1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="112" name="TRIG">
       <node ref="C14" pin="2" pintype="passive"/>
-      <node ref="J26" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J31" pin="2" pintype="passive"/>
       <node ref="R29" pin="2" pintype="passive"/>
     </net>
     <net code="113" name="UP">
@@ -2641,7 +2456,7 @@
     </net>
     <net code="114" name="XCLK">
       <node ref="C10" pin="1" pintype="passive"/>
-      <node ref="J29" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J32" pin="2" pintype="passive"/>
       <node ref="R23" pin="1" pintype="passive"/>
       <node ref="U1" pin="9" pintype="input"/>
     </net>
@@ -2651,7 +2466,7 @@
     </net>
     <net code="116" name="XSTP">
       <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="J30" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J34" pin="2" pintype="passive"/>
     </net>
     <net code="117" name="unconnected-(Q1-Pad3)">
       <node ref="Q1" pin="3" pinfunction="C" pintype="passive+no_connect"/>

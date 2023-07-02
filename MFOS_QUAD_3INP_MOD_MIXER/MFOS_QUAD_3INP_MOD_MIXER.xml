@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/hw/kicad_projects/synth/MFOS_QUAD_3INP_MOD_MIXER/MFOS_QUAD_3INP_MOD_MIXER.kicad_sch</source>
-    <date>Fri 26 May 2023 09:52:38 AM EDT</date>
+    <date>Sun 02 Jul 2023 10:55:58 AM EDT</date>
     <tool>Eeschema 6.0.8-f2edbf62ab~116~ubuntu22.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -122,399 +122,163 @@
     </comp>
     <comp ref="J1">
       <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>69bb8b77-776d-4020-aebb-849848b74076</tstamps>
     </comp>
     <comp ref="J2">
       <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7f380d16-20e6-4b72-89fe-e85fb9638962</tstamps>
     </comp>
     <comp ref="J3">
       <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e62f8fb4-7e2e-4474-bb76-d4b9c85935dd</tstamps>
     </comp>
     <comp ref="J4">
       <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>745902a9-8c4d-424e-8f1d-ecf918995be5</tstamps>
     </comp>
     <comp ref="J5">
       <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2f6a8036-612a-4ddf-b1f3-7158744db3fb</tstamps>
     </comp>
     <comp ref="J6">
       <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>134e84da-84bf-4924-ac9f-47370cd1f245</tstamps>
     </comp>
     <comp ref="J7">
       <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ea2a477f-7d99-4703-b5f8-e3a0d0ab0d66</tstamps>
     </comp>
     <comp ref="J8">
       <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ffe420e4-d538-4a07-acc6-fdbb9e9daf8b</tstamps>
     </comp>
     <comp ref="J9">
       <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>864a74f7-ae80-4f3c-a753-1b7c4aa80e32</tstamps>
     </comp>
     <comp ref="J10">
       <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5fd35e3a-b92b-4cc9-9eb5-6cb61908b076</tstamps>
     </comp>
     <comp ref="J11">
       <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>41705878-4e1a-4642-8588-a95dfc134f18</tstamps>
     </comp>
     <comp ref="J12">
       <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>90fcd047-32a5-4942-bc09-f2c31654be94</tstamps>
     </comp>
     <comp ref="J13">
       <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4949d059-7b66-4306-8333-099c2a2aca12</tstamps>
     </comp>
     <comp ref="J14">
       <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b4a7f424-32c3-4446-8499-9015b46f2c15</tstamps>
     </comp>
     <comp ref="J15">
       <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>61d231a0-dc98-46b8-8104-cf75a78df633</tstamps>
     </comp>
     <comp ref="J16">
       <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>63de1d0f-b114-40a0-a180-98d328d0e12b</tstamps>
     </comp>
     <comp ref="J17">
       <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>67e5f85f-9474-42df-bc0c-bd49c5b9d9d0</tstamps>
     </comp>
     <comp ref="J18">
       <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a8b59ba0-da3d-47ce-9f92-9e6f12ec51b5</tstamps>
     </comp>
     <comp ref="J19">
       <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4d9b213b-89ba-4323-b654-a8f8fb38cd9e</tstamps>
     </comp>
     <comp ref="J20">
       <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8701378e-3918-49a4-b60d-415d8f82b900</tstamps>
-    </comp>
-    <comp ref="J21">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>47ee8875-ad05-4b54-a811-fc416c3fe570</tstamps>
-    </comp>
-    <comp ref="J22">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>a988c39d-3467-4fa2-9615-4d49b7926c42</tstamps>
-    </comp>
-    <comp ref="J23">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>65feeca1-4f16-4bd7-99fa-9ee8ae561357</tstamps>
-    </comp>
-    <comp ref="J24">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>4f2d3b0d-76c1-45de-9a93-908bd1467907</tstamps>
-    </comp>
-    <comp ref="J25">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>853b57fb-5b42-4fd2-b53a-46353b6fab74</tstamps>
-    </comp>
-    <comp ref="J26">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>6693583f-6395-4868-bc09-1e675ee09602</tstamps>
-    </comp>
-    <comp ref="J27">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>57f154cb-55fd-4250-a3c3-2ec49c292b7b</tstamps>
-    </comp>
-    <comp ref="J28">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>c8096aa4-db04-42f0-8387-252bb3bd84c1</tstamps>
-    </comp>
-    <comp ref="J29">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>a959855e-21a7-40d6-97e8-1d77df15be76</tstamps>
-    </comp>
-    <comp ref="J30">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>3d10aaba-80c0-4565-a144-c30d191a200c</tstamps>
-    </comp>
-    <comp ref="J31">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>0f2eb05f-3225-4c05-b01f-bd66a308e7ca</tstamps>
-    </comp>
-    <comp ref="J32">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>5c52e81b-0a73-4e43-b85b-d12eaeb3c2b5</tstamps>
-    </comp>
-    <comp ref="J33">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>d1192046-5a22-4cd7-98d7-93d2425a600d</tstamps>
-    </comp>
-    <comp ref="J34">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>f483acb2-52ba-4fdf-95e8-e90569290eb0</tstamps>
-    </comp>
-    <comp ref="J35">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>b0881e50-9ef6-4e94-9ba1-a02af8a21b36</tstamps>
-    </comp>
-    <comp ref="J36">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>cd7d2d0d-f062-4bce-833b-24ca93e2f83c</tstamps>
-    </comp>
-    <comp ref="J37">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>8235cbc1-d554-48ca-9a95-48f07e0987da</tstamps>
-    </comp>
-    <comp ref="J38">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>b093731f-d236-4c7d-8e60-4fd6d987ece3</tstamps>
-    </comp>
-    <comp ref="J39">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>9f13f156-3a65-4caf-a935-449df200ea4b</tstamps>
-    </comp>
-    <comp ref="J40">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>c5e5b38e-96a3-4b0f-9da9-73af397d16e3</tstamps>
-    </comp>
-    <comp ref="J41">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>4dc43aa5-d2dc-4321-b266-6196b602f270</tstamps>
-    </comp>
-    <comp ref="J42">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>d665a33f-2116-432b-a3fc-11928ef9614a</tstamps>
-    </comp>
-    <comp ref="J43">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>059171f9-8cbd-4b0f-8d7c-bac87a0828cd</tstamps>
-    </comp>
-    <comp ref="J44">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>fd2b52f2-416d-4983-ae06-5c0774cf73e9</tstamps>
-    </comp>
-    <comp ref="J45">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>01e5b0d4-1261-452e-9339-02f19b43763d</tstamps>
-    </comp>
-    <comp ref="J46">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>5a6203ff-736d-4aec-8247-42058309d644</tstamps>
-    </comp>
-    <comp ref="J47">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>25c5935e-a2ac-4fe5-abc8-7b1c37941cab</tstamps>
     </comp>
     <comp ref="R1">
       <value>1M</value>
@@ -1089,7 +853,7 @@
         <pin num="14" name="" type="output"/>
       </pins>
     </libpart>
-    <libpart lib="Connector" part="Barrel_Jack">
+    <libpart lib="Connector" part="Jack-DC">
       <description>DC Barrel Jack</description>
       <docs>~</docs>
       <footprints>
@@ -1097,7 +861,7 @@
       </footprints>
       <fields>
         <field name="Reference">J</field>
-        <field name="Value">Barrel_Jack</field>
+        <field name="Value">Jack-DC</field>
         <field name="Datasheet">~</field>
       </fields>
       <pins>
@@ -1190,7 +954,6 @@
       <node ref="C11" pin="1" pintype="passive"/>
       <node ref="C4" pin="1" pintype="passive"/>
       <node ref="C7" pin="1" pintype="passive"/>
-      <node ref="J45" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R19" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="R3" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="R35" pin="3" pinfunction="3" pintype="passive"/>
@@ -1204,7 +967,6 @@
       <node ref="C3" pin="2" pintype="passive"/>
       <node ref="C5" pin="2" pintype="passive"/>
       <node ref="C9" pin="2" pintype="passive"/>
-      <node ref="J46" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R19" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="R3" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="R35" pin="1" pinfunction="1" pintype="passive"/>
@@ -1237,7 +999,6 @@
       <node ref="J20" pin="1" pintype="passive"/>
       <node ref="J3" pin="1" pintype="passive"/>
       <node ref="J4" pin="1" pintype="passive"/>
-      <node ref="J47" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J5" pin="1" pintype="passive"/>
       <node ref="J6" pin="1" pintype="passive"/>
       <node ref="J7" pin="1" pintype="passive"/>
@@ -1477,122 +1238,98 @@
       <node ref="U1" pin="13" pinfunction="-" pintype="input"/>
     </net>
     <net code="44" name="X1">
-      <node ref="J21" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R1" pin="1" pintype="passive"/>
       <node ref="R2" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="45" name="X2">
       <node ref="J2" pin="2" pintype="passive"/>
-      <node ref="J22" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R6" pin="2" pintype="passive"/>
     </net>
     <net code="46" name="X3">
-      <node ref="J23" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R3" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R4" pin="1" pintype="passive"/>
     </net>
     <net code="47" name="X4">
-      <node ref="J24" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R13" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R7" pin="1" pintype="passive"/>
     </net>
     <net code="48" name="X5">
-      <node ref="J25" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J4" pin="2" pintype="passive"/>
       <node ref="R12" pin="2" pintype="passive"/>
     </net>
     <net code="49" name="X6">
-      <node ref="J26" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R14" pin="1" pintype="passive"/>
       <node ref="R15" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="50" name="X7">
-      <node ref="J27" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R17" pin="1" pintype="passive"/>
       <node ref="R18" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="51" name="X8">
-      <node ref="J28" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J7" pin="2" pintype="passive"/>
       <node ref="R22" pin="2" pintype="passive"/>
     </net>
     <net code="52" name="X9">
-      <node ref="J29" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R23" pin="1" pintype="passive"/>
       <node ref="R29" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="53" name="X10">
-      <node ref="J30" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R19" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R20" pin="1" pintype="passive"/>
     </net>
     <net code="54" name="X11">
-      <node ref="J31" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J9" pin="2" pintype="passive"/>
       <node ref="R28" pin="2" pintype="passive"/>
     </net>
     <net code="55" name="X12">
-      <node ref="J32" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R30" pin="1" pintype="passive"/>
       <node ref="R31" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="56" name="X13">
-      <node ref="J33" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R33" pin="1" pintype="passive"/>
       <node ref="R34" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="57" name="X14">
       <node ref="J12" pin="2" pintype="passive"/>
-      <node ref="J34" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R38" pin="2" pintype="passive"/>
     </net>
     <net code="58" name="X15">
-      <node ref="J35" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R35" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R36" pin="1" pintype="passive"/>
     </net>
     <net code="59" name="X16">
-      <node ref="J36" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R39" pin="1" pintype="passive"/>
       <node ref="R45" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="60" name="X17">
       <node ref="J14" pin="2" pintype="passive"/>
-      <node ref="J37" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R44" pin="2" pintype="passive"/>
     </net>
     <net code="61" name="X18">
-      <node ref="J38" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R46" pin="1" pintype="passive"/>
       <node ref="R47" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="62" name="X19">
-      <node ref="J39" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R49" pin="1" pintype="passive"/>
       <node ref="R50" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="63" name="X20">
       <node ref="J17" pin="2" pintype="passive"/>
-      <node ref="J40" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R51" pin="2" pintype="passive"/>
     </net>
     <net code="64" name="X21">
-      <node ref="J41" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R55" pin="1" pintype="passive"/>
       <node ref="R61" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="65" name="X22">
-      <node ref="J42" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R52" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R53" pin="1" pintype="passive"/>
     </net>
     <net code="66" name="X23">
       <node ref="J19" pin="2" pintype="passive"/>
-      <node ref="J43" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R60" pin="2" pintype="passive"/>
     </net>
     <net code="67" name="X24">
-      <node ref="J44" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R62" pin="1" pintype="passive"/>
       <node ref="R63" pin="2" pinfunction="2" pintype="passive"/>
     </net>

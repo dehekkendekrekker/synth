@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/hw/kicad_projects/synth/MFOS_VC_REVERB/MFOS_VC_REVERB.kicad_sch</source>
-    <date>Mon 05 Jun 2023 08:52:51 PM EDT</date>
+    <date>Sun 02 Jul 2023 01:26:50 PM EDT</date>
     <tool>Eeschema 6.0.8-f2edbf62ab~116~ubuntu22.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -26,7 +26,7 @@
   <components>
     <comp ref="C1">
       <value>1uF</value>
-      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <libsource lib="dhk" part="C_Tantalum" description="Polarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -90,7 +90,7 @@
     </comp>
     <comp ref="C9">
       <value>10uF</value>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <libsource lib="dhk" part="C_Alu_Bipolar" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -98,7 +98,7 @@
     </comp>
     <comp ref="C10">
       <value>1uF</value>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <libsource lib="dhk" part="C_Alu_Bipolar" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -106,7 +106,7 @@
     </comp>
     <comp ref="C11">
       <value>1uF</value>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <libsource lib="dhk" part="C_Alu_Bipolar" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -114,7 +114,7 @@
     </comp>
     <comp ref="C12">
       <value>1uF</value>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <libsource lib="dhk" part="C_Alu_Bipolar" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -122,7 +122,7 @@
     </comp>
     <comp ref="C13">
       <value>1uF</value>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <libsource lib="dhk" part="C_Alu_Bipolar" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -282,111 +282,35 @@
     </comp>
     <comp ref="J1">
       <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>21762559-bbc7-4c4c-bc87-f7e5de78c021</tstamps>
     </comp>
     <comp ref="J2">
       <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f215c7a1-780b-4b2f-80e4-69d52e046a20</tstamps>
     </comp>
     <comp ref="J3">
       <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>27e84cd8-bc40-4382-a5b9-56e118596adb</tstamps>
     </comp>
     <comp ref="J4">
       <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>782c88b5-a5f2-48a4-a2c7-5fee38eec55c</tstamps>
-    </comp>
-    <comp ref="J5">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>4ed88909-fcaf-4ca8-9b66-09ee40334cb2</tstamps>
-    </comp>
-    <comp ref="J6">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>a46017df-70eb-4aa0-95f5-1838a12f94f4</tstamps>
-    </comp>
-    <comp ref="J7">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>c3911916-001f-481b-8bb5-6405d334e8ac</tstamps>
-    </comp>
-    <comp ref="J8">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>95d0de7b-2b7c-4a2c-9d5c-443ca862bd30</tstamps>
-    </comp>
-    <comp ref="J9">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>256b7d88-192a-4c2d-bd5e-5ff3d1ccfc25</tstamps>
-    </comp>
-    <comp ref="J10">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>b6298570-93ec-4c74-8cb9-18900ef9636a</tstamps>
-    </comp>
-    <comp ref="J11">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>7799bd63-ea4f-48b1-a948-22aaa14274c8</tstamps>
-    </comp>
-    <comp ref="J12">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>56e35f34-3646-49e9-bcd1-ab0315c4bbf6</tstamps>
-    </comp>
-    <comp ref="J13">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>93c91570-8bf6-410d-a460-a44a587dac3d</tstamps>
     </comp>
     <comp ref="J14">
       <value>Conn_Coaxial</value>
@@ -770,7 +694,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>61db3c1c-626c-41c7-bffb-700eec40aa12 f2084bcc-784d-4abf-bc29-87e28d0d8c8b 2eae4df6-abf6-41aa-bc40-4dcf9aa9d554</tstamps>
+      <tstamps>f2084bcc-784d-4abf-bc29-87e28d0d8c8b 61db3c1c-626c-41c7-bffb-700eec40aa12 2eae4df6-abf6-41aa-bc40-4dcf9aa9d554</tstamps>
     </comp>
     <comp ref="U3">
       <value>TL074</value>
@@ -938,22 +862,6 @@
         <pin num="8" name="V+" type="power_in"/>
       </pins>
     </libpart>
-    <libpart lib="Connector" part="Barrel_Jack">
-      <description>DC Barrel Jack</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>BarrelJack*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">J</field>
-        <field name="Value">Barrel_Jack</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="" type="passive"/>
-        <pin num="2" name="" type="passive"/>
-      </pins>
-    </libpart>
     <libpart lib="Connector" part="Conn_Coaxial">
       <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
       <docs> ~</docs>
@@ -973,6 +881,22 @@
       <pins>
         <pin num="1" name="In" type="passive"/>
         <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Jack-DC">
+      <description>DC Barrel Jack</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Jack-DC</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
       </pins>
     </libpart>
     <libpart lib="Connector_Generic" part="Conn_01x01">
@@ -1127,6 +1051,38 @@
         <pin num="3" name="C" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="dhk" part="C_Alu_Bipolar">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Alu_Bipolar</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="dhk" part="C_Tantalum">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Tantalum</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
     <libpart lib="dhk" part="LF411">
       <description>Quad JFET-Input Operational Amplifiers, DIP-14/SOIC-14/SSOP-14</description>
       <docs>http://www.ti.com/lit/ds/symlink/tl081.pdf</docs>
@@ -1182,7 +1138,6 @@
   <nets>
     <net code="1" name="+5V">
       <node ref="C6" pin="1" pintype="passive"/>
-      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R15" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="R31" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="R4" pin="2" pintype="passive"/>
@@ -1231,35 +1186,28 @@
     <net code="5" name="/X5">
       <node ref="C9" pin="2" pintype="passive"/>
       <node ref="J1" pin="2" pintype="passive"/>
-      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
     <net code="6" name="/X6">
       <node ref="J2" pin="2" pintype="passive"/>
-      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R13" pin="1" pintype="passive"/>
     </net>
     <net code="7" name="/X7">
-      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R14" pin="2" pintype="passive"/>
       <node ref="R15" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="8" name="/X8">
-      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R30" pin="2" pintype="passive"/>
       <node ref="R31" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="9" name="/X9">
       <node ref="C13" pin="1" pintype="passive"/>
-      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R28" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="10" name="/X10">
-      <node ref="J12" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J4" pin="2" pintype="passive"/>
       <node ref="R29" pin="1" pintype="passive"/>
     </net>
     <net code="11" name="/X11">
-      <node ref="J13" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="LED1" pin="2" pinfunction="A" pintype="passive"/>
       <node ref="R36" pin="2" pintype="passive"/>
     </net>
@@ -1316,7 +1264,6 @@
     <net code="13" name="LVS">
       <node ref="C7" pin="1" pintype="passive"/>
       <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R15" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="R31" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="R5" pin="2" pintype="passive"/>
