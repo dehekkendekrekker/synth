@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/hw/kicad_projects/synth/MFOS_QUAD_3INP_AUDIO_MIXER/MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch</source>
-    <date>Fri 26 May 2023 09:52:12 AM EDT</date>
+    <date>Sun 02 Jul 2023 10:49:42 AM EDT</date>
     <tool>Eeschema 6.0.8-f2edbf62ab~116~ubuntu22.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -26,30 +26,27 @@
   <components>
     <comp ref="C1">
       <value>1uF</value>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <libsource lib="dhk" part="C_Alu_Bipolar" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>75350765-7286-4f37-b6c6-e96d758a5bd0</tstamps>
+      <tstamps>19062d9b-bab7-408c-bec6-64eff298069d</tstamps>
     </comp>
     <comp ref="C2">
       <value>1uF</value>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <libsource lib="dhk" part="C_Alu_Bipolar" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>fbc4a3ed-2501-4b5c-9cfd-7da442a28721</tstamps>
+      <tstamps>38d32595-77d0-4ace-bc5c-aeb4ec6553c5</tstamps>
     </comp>
     <comp ref="C3">
       <value>1uF</value>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <libsource lib="dhk" part="C_Alu_Bipolar" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>3787820b-2c07-4e44-82a2-16d0a51c4c8e</tstamps>
+      <tstamps>3935dd1d-ad28-49b2-80eb-a6b5aae2218f</tstamps>
     </comp>
     <comp ref="C4">
       <value>47pF</value>
@@ -61,12 +58,11 @@
     </comp>
     <comp ref="C5">
       <value>1uF</value>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <libsource lib="dhk" part="C_Alu_Bipolar" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>f288424e-3a38-4276-8367-8e1edf37f815</tstamps>
+      <tstamps>17c61d6d-11e3-48eb-b4a9-1137165da2b6</tstamps>
     </comp>
     <comp ref="C6">
       <value>47pF</value>
@@ -78,37 +74,35 @@
     </comp>
     <comp ref="C7">
       <value>1uF</value>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <libsource lib="dhk" part="C_Alu_Bipolar" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>874f20f4-9a33-4777-bf90-d4337b03e619</tstamps>
+      <tstamps>e02b202b-dc40-430e-adf2-d02d94ecbb7e</tstamps>
     </comp>
     <comp ref="C8">
       <value>1uF</value>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <libsource lib="dhk" part="C_Alu_Bipolar" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>26fa1d78-0bad-48f1-ad47-bb9c4cee8f3c</tstamps>
     </comp>
     <comp ref="C9">
       <value>10uF</value>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <libsource lib="dhk" part="C_Alu_Bipolar" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>0805f20a-4268-4966-a494-94060075a22d</tstamps>
+      <tstamps>3acc448e-b7dd-464e-b3a2-c9d269e746c1</tstamps>
     </comp>
     <comp ref="C10">
       <value>10uF</value>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <libsource lib="dhk" part="C_Alu_Bipolar" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>a3bc1e77-ebd0-43a8-b7e8-b87284aba3f3</tstamps>
+      <tstamps>6e915325-bed7-41d1-95dc-36768cfaee66</tstamps>
     </comp>
     <comp ref="C11">
       <value>1uF</value>
@@ -121,19 +115,17 @@
     </comp>
     <comp ref="C12">
       <value>1uF</value>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <libsource lib="dhk" part="C_Alu_Bipolar" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>772770a4-15ee-44fb-9a4e-573b57f84035</tstamps>
     </comp>
     <comp ref="C13">
       <value>1uF</value>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <libsource lib="dhk" part="C_Alu_Bipolar" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8a2767bf-2af6-43ca-ad55-6aaa88fd7387</tstamps>
     </comp>
@@ -147,10 +139,9 @@
     </comp>
     <comp ref="C15">
       <value>1uF</value>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <libsource lib="dhk" part="C_Alu_Bipolar" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3a943926-75b9-411e-839c-744f81f36e1b</tstamps>
     </comp>
@@ -164,37 +155,35 @@
     </comp>
     <comp ref="C17">
       <value>1uF</value>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <libsource lib="dhk" part="C_Alu_Bipolar" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c0e585a0-1f48-493b-a756-9d755e093a02</tstamps>
     </comp>
     <comp ref="C18">
       <value>1uF</value>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <libsource lib="dhk" part="C_Alu_Bipolar" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>44d91933-c4e1-4731-aa7d-75034728a8f9</tstamps>
     </comp>
     <comp ref="C19">
       <value>10uF</value>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <libsource lib="dhk" part="C_Alu_Bipolar" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>a4724364-14f4-4045-a6bd-0cc2bcab6d88</tstamps>
+      <tstamps>ba19d384-662a-4322-880d-d501eec66cdc</tstamps>
     </comp>
     <comp ref="C20">
       <value>10uF</value>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <libsource lib="dhk" part="C_Alu_Bipolar" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>5160e3e1-c0d6-4cf2-ad0d-1cb528ce6f3d</tstamps>
+      <tstamps>8ed20c4b-75e9-471a-9c8b-f2a8989b4fd7</tstamps>
     </comp>
     <comp ref="C21">
       <value>.1uF</value>
@@ -419,238 +408,6 @@
       <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c86514d9-4d1a-48f5-aa51-30aa1c71e16d</tstamps>
-    </comp>
-    <comp ref="J17">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>7d2f471b-4e93-4b8c-91ec-abace35cfe90</tstamps>
-    </comp>
-    <comp ref="J18">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>49f2a7ed-5d2a-4376-8c82-54a9b824fe62</tstamps>
-    </comp>
-    <comp ref="J19">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>e05e155e-c7d4-4334-a5f0-b5c5de606f15</tstamps>
-    </comp>
-    <comp ref="J20">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>57c178fb-11fa-4936-82e8-5b544437d7ac</tstamps>
-    </comp>
-    <comp ref="J21">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>856475ec-7946-47ea-8182-6cb8ec985764</tstamps>
-    </comp>
-    <comp ref="J22">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>e37527d8-3021-4722-b08d-34315148133e</tstamps>
-    </comp>
-    <comp ref="J23">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>c3efe8d8-2164-4771-8579-8dafc304d069</tstamps>
-    </comp>
-    <comp ref="J24">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>54172470-ac76-432c-8287-78cc29a2e720</tstamps>
-    </comp>
-    <comp ref="J25">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>eb8d043d-84c2-43c1-a144-582401d45922</tstamps>
-    </comp>
-    <comp ref="J26">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>f70729a4-fa77-4836-8818-571a428695eb</tstamps>
-    </comp>
-    <comp ref="J27">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>6aba47be-568e-4ac3-987f-df59c3c336bd</tstamps>
-    </comp>
-    <comp ref="J28">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>44a7390b-a1d9-4f6a-b871-d3d7c7fde099</tstamps>
-    </comp>
-    <comp ref="J29">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>0f5f2ade-4c98-416c-a338-22fc0febd8ac</tstamps>
-    </comp>
-    <comp ref="J30">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>806f1797-33f7-4e2f-8a8b-4335da272e42</tstamps>
-    </comp>
-    <comp ref="J31">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>9d57af1b-4756-4d11-8f1c-7d6b93963a16</tstamps>
-    </comp>
-    <comp ref="J32">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>5a76ba81-71c0-429f-bf5c-581e44c10f30</tstamps>
-    </comp>
-    <comp ref="J33">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>238a7bfc-aff0-468a-a58b-9441972b1744</tstamps>
-    </comp>
-    <comp ref="J34">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>96fcf099-5887-46cb-adcf-d556e3837aa4</tstamps>
-    </comp>
-    <comp ref="J35">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>b24e9c9d-e3bd-4545-a70b-8eec92b4aa8b</tstamps>
-    </comp>
-    <comp ref="J36">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>16efebae-671b-4429-be32-f3267f7ab5b5</tstamps>
-    </comp>
-    <comp ref="J37">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>90dd863d-507c-4b89-a1dc-2fd8f5257dd0</tstamps>
-    </comp>
-    <comp ref="J38">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>92e51729-a12a-49c6-9613-325cd1e8e486</tstamps>
-    </comp>
-    <comp ref="J39">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>cd0afc48-eed0-4acc-b79f-2d0dba5773c1</tstamps>
-    </comp>
-    <comp ref="J40">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>09efcbc6-e6ee-4d17-8223-149c004bf41d</tstamps>
-    </comp>
-    <comp ref="J41">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>1c6b6033-59fa-4188-9b4b-d7de95ceaf3f</tstamps>
-    </comp>
-    <comp ref="J42">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>f07fd7b8-7ae5-458e-a9d7-8b1e8072530a</tstamps>
-    </comp>
-    <comp ref="J43">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>de0f80e1-7b0a-4eeb-9b91-622eede42beb</tstamps>
-    </comp>
-    <comp ref="J44">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>dc3d4b04-98d2-44c0-9778-ef54ccb139f7</tstamps>
-    </comp>
-    <comp ref="J45">
-      <value>Conn_01x01</value>
-      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>0fb405fe-10f8-49ac-91a0-283287d20c14</tstamps>
     </comp>
     <comp ref="R1">
       <value>100K</value>
@@ -1172,7 +929,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>7fd80054-2067-43e1-b686-71ebcbfdadde 652461f6-251e-462e-8825-73540c79fc00 4ca27794-ab29-4c54-9993-33ea02c730bb c52481f8-19f2-4992-a8b7-d0b83a62909f 08bbc73b-36e9-4774-bf91-d9e26c074228</tstamps>
+      <tstamps>7fd80054-2067-43e1-b686-71ebcbfdadde 4ca27794-ab29-4c54-9993-33ea02c730bb c52481f8-19f2-4992-a8b7-d0b83a62909f 652461f6-251e-462e-8825-73540c79fc00 08bbc73b-36e9-4774-bf91-d9e26c074228</tstamps>
     </comp>
     <comp ref="U2">
       <value>TL074</value>
@@ -1190,7 +947,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>8e673604-7cf6-45a0-8103-1c3a6d8427e5 447d12b9-86ec-47eb-8316-59454cf34b5c 2b02fa24-711c-4d32-a578-5620b7e9f13c 67c2081c-af0b-4568-a2dc-297990f64709 2a251801-2722-4545-83ac-4f493dd75646</tstamps>
+      <tstamps>447d12b9-86ec-47eb-8316-59454cf34b5c 67c2081c-af0b-4568-a2dc-297990f64709 8e673604-7cf6-45a0-8103-1c3a6d8427e5 2b02fa24-711c-4d32-a578-5620b7e9f13c 2a251801-2722-4545-83ac-4f493dd75646</tstamps>
     </comp>
     <comp ref="U4">
       <value>TL074</value>
@@ -1199,7 +956,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>915680c6-8f33-4192-b96a-36c95abec774 9de4f868-1047-4516-8be6-41e6cfa591c3 41e07d30-52f2-41e7-99c0-55ecce0ce5b1 6a18d67c-3960-42e0-a77a-fe6cba1c08d5 0280281d-f6c4-476d-a89e-b4ef7f1326dc</tstamps>
+      <tstamps>6a18d67c-3960-42e0-a77a-fe6cba1c08d5 915680c6-8f33-4192-b96a-36c95abec774 41e07d30-52f2-41e7-99c0-55ecce0ce5b1 9de4f868-1047-4516-8be6-41e6cfa591c3 0280281d-f6c4-476d-a89e-b4ef7f1326dc</tstamps>
     </comp>
   </components>
   <libparts>
@@ -1343,6 +1100,22 @@
         <pin num="2" name="B" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="dhk" part="C_Alu_Bipolar">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Alu_Bipolar</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
   </libparts>
   <libraries>
     <library logical="Amplifier_Operational">
@@ -1359,6 +1132,9 @@
     </library>
     <library logical="Switch">
       <uri>/usr/share/kicad/symbols//Switch.kicad_sym</uri>
+    </library>
+    <library logical="dhk">
+      <uri>/home/hw/kicad_libraries/dhk.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
@@ -1402,7 +1178,6 @@
       <node ref="J2" pin="1" pintype="passive"/>
       <node ref="J3" pin="1" pintype="passive"/>
       <node ref="J4" pin="1" pintype="passive"/>
-      <node ref="J45" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J5" pin="1" pintype="passive"/>
       <node ref="J6" pin="1" pintype="passive"/>
       <node ref="J7" pin="1" pintype="passive"/>
@@ -1447,27 +1222,27 @@
     </net>
     <net code="4" name="Net-(C1-Pad1)">
       <node ref="C1" pin="1" pintype="passive"/>
-      <node ref="J1" pin="2" pintype="passive"/>
+      <node ref="R1" pin="3" pinfunction="3" pintype="passive"/>
     </net>
     <net code="5" name="Net-(C1-Pad2)">
       <node ref="C1" pin="2" pintype="passive"/>
-      <node ref="R1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J1" pin="2" pintype="passive"/>
     </net>
     <net code="6" name="Net-(C2-Pad1)">
       <node ref="C2" pin="1" pintype="passive"/>
-      <node ref="J2" pin="2" pintype="passive"/>
+      <node ref="R4" pin="3" pinfunction="3" pintype="passive"/>
     </net>
     <net code="7" name="Net-(C2-Pad2)">
       <node ref="C2" pin="2" pintype="passive"/>
-      <node ref="R4" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J2" pin="2" pintype="passive"/>
     </net>
     <net code="8" name="Net-(C3-Pad1)">
       <node ref="C3" pin="1" pintype="passive"/>
-      <node ref="J3" pin="2" pintype="passive"/>
+      <node ref="R13" pin="3" pinfunction="3" pintype="passive"/>
     </net>
     <net code="9" name="Net-(C3-Pad2)">
       <node ref="C3" pin="2" pintype="passive"/>
-      <node ref="R13" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J3" pin="2" pintype="passive"/>
     </net>
     <net code="10" name="Net-(C4-Pad1)">
       <node ref="C4" pin="1" pintype="passive"/>
@@ -1483,11 +1258,11 @@
     </net>
     <net code="12" name="Net-(C5-Pad1)">
       <node ref="C5" pin="1" pintype="passive"/>
-      <node ref="J4" pin="2" pintype="passive"/>
+      <node ref="R16" pin="3" pinfunction="3" pintype="passive"/>
     </net>
     <net code="13" name="Net-(C5-Pad2)">
       <node ref="C5" pin="2" pintype="passive"/>
-      <node ref="R16" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J4" pin="2" pintype="passive"/>
     </net>
     <net code="14" name="Net-(C6-Pad1)">
       <node ref="C6" pin="1" pintype="passive"/>
@@ -1503,11 +1278,11 @@
     </net>
     <net code="16" name="Net-(C7-Pad1)">
       <node ref="C7" pin="1" pintype="passive"/>
-      <node ref="J5" pin="2" pintype="passive"/>
+      <node ref="R21" pin="3" pinfunction="3" pintype="passive"/>
     </net>
     <net code="17" name="Net-(C7-Pad2)">
       <node ref="C7" pin="2" pintype="passive"/>
-      <node ref="R21" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J5" pin="2" pintype="passive"/>
     </net>
     <net code="18" name="Net-(C8-Pad1)">
       <node ref="C8" pin="1" pintype="passive"/>
@@ -1517,8 +1292,8 @@
       <node ref="C8" pin="2" pintype="passive"/>
       <node ref="R24" pin="3" pinfunction="3" pintype="passive"/>
     </net>
-    <net code="20" name="Net-(C9-Pad1)">
-      <node ref="C9" pin="1" pintype="passive"/>
+    <net code="20" name="Net-(C9-Pad2)">
+      <node ref="C9" pin="2" pintype="passive"/>
       <node ref="R27" pin="2" pintype="passive"/>
       <node ref="U1" pin="8" pintype="output"/>
     </net>
@@ -1599,8 +1374,8 @@
       <node ref="C18" pin="2" pintype="passive"/>
       <node ref="R49" pin="3" pinfunction="3" pintype="passive"/>
     </net>
-    <net code="38" name="Net-(C19-Pad1)">
-      <node ref="C19" pin="1" pintype="passive"/>
+    <net code="38" name="Net-(C19-Pad2)">
+      <node ref="C19" pin="2" pintype="passive"/>
       <node ref="R51" pin="2" pintype="passive"/>
       <node ref="U3" pin="8" pintype="output"/>
     </net>
@@ -1698,71 +1473,58 @@
       <node ref="U4" pin="14" pintype="output"/>
     </net>
     <net code="58" name="X1">
-      <node ref="J17" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R2" pin="1" pintype="passive"/>
     </net>
     <net code="59" name="X2">
-      <node ref="J18" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R4" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R5" pin="1" pintype="passive"/>
     </net>
     <net code="60" name="X3">
-      <node ref="J19" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R7" pin="1" pintype="passive"/>
       <node ref="R8" pin="1" pintype="passive"/>
       <node ref="S1" pin="2" pinfunction="B" pintype="passive"/>
     </net>
     <net code="61" name="X4">
-      <node ref="J20" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R10" pin="1" pintype="passive"/>
       <node ref="R11" pin="1" pintype="passive"/>
       <node ref="S2" pin="2" pinfunction="B" pintype="passive"/>
     </net>
     <net code="62" name="X5">
-      <node ref="J21" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R13" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R14" pin="1" pintype="passive"/>
     </net>
     <net code="63" name="X6">
-      <node ref="J22" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R16" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R17" pin="1" pintype="passive"/>
     </net>
     <net code="64" name="X7">
-      <node ref="J23" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R19" pin="1" pintype="passive"/>
       <node ref="R21" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="65" name="X8">
-      <node ref="J24" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R20" pin="1" pintype="passive"/>
       <node ref="R24" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="66" name="X9">
-      <node ref="J25" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R28" pin="2" pintype="passive"/>
       <node ref="S3" pin="1" pinfunction="1" pintype="passive"/>
     </net>
     <net code="67" name="X10">
-      <node ref="J26" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R15" pin="2" pintype="passive"/>
       <node ref="R22" pin="2" pintype="passive"/>
       <node ref="S3" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="U1" pin="7" pintype="output"/>
     </net>
     <net code="68" name="X11">
-      <node ref="J27" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R23" pin="1" pintype="passive"/>
       <node ref="S3" pin="4" pinfunction="4" pintype="passive"/>
     </net>
     <net code="69" name="X12">
-      <node ref="C9" pin="2" pintype="passive"/>
-      <node ref="J28" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
       <node ref="J7" pin="2" pintype="passive"/>
     </net>
     <net code="70" name="X13">
-      <node ref="J29" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R18" pin="2" pintype="passive"/>
       <node ref="R26" pin="2" pintype="passive"/>
       <node ref="S3" pin="2" pinfunction="2" pintype="passive"/>
@@ -1770,80 +1532,65 @@
     </net>
     <net code="71" name="X14">
       <node ref="C10" pin="1" pintype="passive"/>
-      <node ref="J30" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="J8" pin="2" pintype="passive"/>
     </net>
     <net code="72" name="X15">
-      <node ref="J31" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R35" pin="1" pintype="passive"/>
       <node ref="R36" pin="1" pintype="passive"/>
       <node ref="S4" pin="2" pinfunction="B" pintype="passive"/>
     </net>
     <net code="73" name="X16">
-      <node ref="J32" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R29" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R30" pin="1" pintype="passive"/>
     </net>
     <net code="74" name="X17">
-      <node ref="J33" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R38" pin="1" pintype="passive"/>
       <node ref="R39" pin="1" pintype="passive"/>
       <node ref="S5" pin="2" pinfunction="B" pintype="passive"/>
     </net>
     <net code="75" name="X18">
-      <node ref="J34" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R32" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R33" pin="1" pintype="passive"/>
     </net>
     <net code="76" name="X19">
-      <node ref="J35" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R41" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R42" pin="1" pintype="passive"/>
     </net>
     <net code="77" name="X20">
-      <node ref="J36" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R44" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R45" pin="1" pintype="passive"/>
     </net>
     <net code="78" name="X21">
-      <node ref="J37" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R47" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R48" pin="1" pintype="passive"/>
     </net>
     <net code="79" name="X22">
-      <node ref="J38" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R49" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="R50" pin="1" pintype="passive"/>
     </net>
     <net code="80" name="X23">
-      <node ref="J39" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R53" pin="2" pintype="passive"/>
       <node ref="S6" pin="1" pinfunction="1" pintype="passive"/>
     </net>
     <net code="81" name="X24">
-      <node ref="J40" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R43" pin="2" pintype="passive"/>
       <node ref="R52" pin="2" pintype="passive"/>
       <node ref="S6" pin="3" pinfunction="3" pintype="passive"/>
       <node ref="U3" pin="7" pintype="output"/>
     </net>
     <net code="82" name="X25">
-      <node ref="J41" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R54" pin="1" pintype="passive"/>
       <node ref="S6" pin="4" pinfunction="4" pintype="passive"/>
     </net>
     <net code="83" name="X26">
       <node ref="C20" pin="1" pintype="passive"/>
       <node ref="J16" pin="2" pintype="passive"/>
-      <node ref="J42" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
     <net code="84" name="X27">
-      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
       <node ref="J15" pin="2" pintype="passive"/>
-      <node ref="J43" pin="1" pinfunction="Pin_1" pintype="passive"/>
     </net>
     <net code="85" name="X28">
-      <node ref="J44" pin="1" pinfunction="Pin_1" pintype="passive"/>
       <node ref="R46" pin="2" pintype="passive"/>
       <node ref="R56" pin="2" pintype="passive"/>
       <node ref="S6" pin="2" pinfunction="2" pintype="passive"/>
