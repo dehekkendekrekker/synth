@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/hw/kicad_projects/synth/MFOS_SAMPLE_HOLD/MFOS_SAMPLE_HOLD.kicad_sch</source>
+    <date>Fri 26 May 2023 09:53:22 AM EDT</date>
+    <tool>Eeschema 6.0.8-f2edbf62ab~116~ubuntu22.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>MFOS_SAMPLE_HOLD.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100pF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06e28833-e08a-425c-ad72-6445969232f3</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>.022uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c11af50-9a5d-48dc-b164-3450007eb92c</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10pF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e173bc98-3ed1-4c63-86c3-0a997e1cd142</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10uF</value>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01e68c98-88d8-408a-84cd-1a16c028e128</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>895ad6ba-6307-4131-aed4-1e31a3327718</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e469fcc-27dd-4fad-bf5f-90c78433e839</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7707635-80c2-4a50-be57-00b42d2cd35a</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>.001uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1089d8f6-fcc0-41ac-8cb1-c5a99db41347</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>10uF</value>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62d55e7a-1e7d-40fc-919e-0756d739f848</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74069e83-4831-43d3-ab9c-128bd573cacd</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>09a2f387-f2c3-452d-84dd-8e013d13fcd6</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7c67380-ef7c-41a0-8b99-ab4af9a1cebe</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>.022uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83799ac6-1cf6-48c7-af49-3ca5aa657adc</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f6973c3-e1c6-44ac-9ab8-a8958bc659e8</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>.0047uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52d8c097-695b-4307-a065-011516975caa</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>10pF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d3d2a8d-2230-4b8a-a6a1-28490195c635</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>.01uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9c04142-3b11-43c3-99ef-b73918ea8708</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>10pF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04bddd5c-90cb-4ed4-ba24-ecb5d7b013d9</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N914</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/85622/1n914.pdf</datasheet>
+      <libsource lib="Diode" part="1N914" description="100V 0.3A Small Signal Fast Switching Diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1cbd990-5ea5-45c1-8e24-923dd028a92c</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>1N914</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/85622/1n914.pdf</datasheet>
+      <libsource lib="Diode" part="1N914" description="100V 0.3A Small Signal Fast Switching Diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5a7a144-e34f-475b-b6c8-8f70d4edb653</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>1N914</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/85622/1n914.pdf</datasheet>
+      <libsource lib="Diode" part="1N914" description="100V 0.3A Small Signal Fast Switching Diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93b9cc4a-5d89-4519-b31f-c21bf39e4f6c</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>1N914</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/85622/1n914.pdf</datasheet>
+      <libsource lib="Diode" part="1N914" description="100V 0.3A Small Signal Fast Switching Diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fab1fbe6-1b98-463d-aeba-cf2b8df42eba</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>1N914</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/85622/1n914.pdf</datasheet>
+      <libsource lib="Diode" part="1N914" description="100V 0.3A Small Signal Fast Switching Diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d01dc904-4408-4a13-8fd1-5ee08c08ca61</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Jack-DC</value>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d778882-b4c6-494f-857f-3bf0ab14ca25</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Jack-DC</value>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c84fe50-0654-4159-b82f-d1220e64c99f</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Jack-DC</value>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b37d4aa3-82db-4a21-9c7b-5b6a3ebf34c0</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Jack-DC</value>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5af5f684-d228-476b-8afa-afaa98db7945</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Jack-DC</value>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3ad5512-11f0-48ef-b803-d373a9654c66</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Jack-DC</value>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36d47b29-5e0b-495a-9ed0-a0769491e07a</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Jack-DC</value>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c7305e8-98b4-4ca1-89e2-a1c3f7ec4fc3</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Conn_01x01</value>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f021bf07-67af-4497-abe3-d9fbdf35c35e</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>Conn_01x01</value>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9dfc99d6-44de-488e-94a8-0c42d06691e9</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>Conn_01x01</value>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f6dd010c-4274-42e7-954a-2124bfc8bd2a</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>Conn_01x01</value>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ef13af9-03b0-4ff6-84f4-4bf9b00958ef</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>Conn_01x01</value>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57e7db68-5e63-464f-8381-d61f040af111</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>Conn_01x01</value>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eca9ae0d-c706-4950-b016-aaed0ebab662</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>Conn_01x01</value>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8199429-3478-4c54-8262-9ee9b6a13955</tstamps>
+    </comp>
+    <comp ref="J15">
+      <value>Conn_01x01</value>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6fe10682-2819-4530-959d-0eeb8e39fb51</tstamps>
+    </comp>
+    <comp ref="J16">
+      <value>Conn_01x01</value>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a91d7afb-8989-48bd-910a-2ca682f7f3a1</tstamps>
+    </comp>
+    <comp ref="J17">
+      <value>Conn_01x01</value>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8488747d-595a-4bb7-ab84-2086aba40b78</tstamps>
+    </comp>
+    <comp ref="J18">
+      <value>Conn_01x01</value>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d191c77d-daae-4483-b84e-7a980294e8a3</tstamps>
+    </comp>
+    <comp ref="J19">
+      <value>Conn_01x01</value>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>595bcdd6-10b8-4fbd-a22b-24b9b027d206</tstamps>
+    </comp>
+    <comp ref="J20">
+      <value>Conn_01x01</value>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7647ab3a-6373-41ed-bdb2-bf9a38d74753</tstamps>
+    </comp>
+    <comp ref="LED1">
+      <value>LED</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4adc39ea-abf8-4b96-a6f8-2868f8b8b5dc</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>2N3904</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7274f3c0-ac20-4c96-bd5c-2b564b99f60f</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>2N3904</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50f53ed2-3d4e-43f5-87f5-0c5fb1369075</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>2N3904</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3904" description="0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0375e99e-f506-494a-8872-aa6fb60a64f6</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>J112</value>
+      <datasheet>https://www.onsemi.com/pub/Collateral/MMBFJ113-D.PDF</datasheet>
+      <libsource lib="dhk" part="J112" description="5mA min, 35V, 50mOhm max, 1-5V Vgs(off), N-Channel JFET, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7319e780-225d-49c8-b443-e4647f2dcf5f</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>J112</value>
+      <datasheet>https://www.onsemi.com/pub/Collateral/MMBFJ113-D.PDF</datasheet>
+      <libsource lib="dhk" part="J112" description="5mA min, 35V, 50mOhm max, 1-5V Vgs(off), N-Channel JFET, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>411993a9-df9b-475b-acd7-b390e54f2b94</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>J112</value>
+      <datasheet>https://www.onsemi.com/pub/Collateral/MMBFJ113-D.PDF</datasheet>
+      <libsource lib="dhk" part="J112" description="5mA min, 35V, 50mOhm max, 1-5V Vgs(off), N-Channel JFET, SOT-23"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>945ed899-8bd2-4078-9704-4e2d00c36e55</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>20K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e2538d12-72dc-4511-9398-0137f338d898</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100K</value>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ebe681f7-c25b-473b-ad0c-c95fd40499e2</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>47K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24db43c8-7008-4be8-9bc5-2b2c68f8c56a</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a7a120a-8f64-4719-98a0-92808163bfe6</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>4.7K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9da687fc-1551-41db-960a-e23aea2daa27</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>100K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7d900a7-907c-49dd-9ace-fc968800f1a3</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>4.7K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cbc227f3-77f5-41ca-81fb-0195744c382d</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>100K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2128a96-87d9-4427-9789-9aae3de7751b</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>100K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ac19dc06-ff89-41a6-82cc-0ac1f9b74bf8</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>100K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc216b5d-f8ad-4157-959c-89a3ba06f4d3</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>4.7M</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8034e844-48ac-472c-8124-fa989f579791</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>2K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7a5739d-4560-4ced-8b04-194bfb34b3dd</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>100K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8e114fe-97c6-49c5-a02e-452c05e95ed5</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>20K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d6084fe8-cfa3-452e-bcd9-623c32ced461</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>20K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2bc2661a-516f-422b-bf33-f8a3d4eb36c9</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>100K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc589739-ea4d-4744-9d8b-37206c08abb3</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>1K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9d7cf73-0b29-470b-ba34-92762ab9d9b5</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>6.2K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca8f7ef9-1421-4ac3-b7e0-47dccb521392</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>1M</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a017f23-a6b9-4d9c-b5d8-c7a5bf113aeb</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>20K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c6b9678-66db-4a2c-a93d-d85ffb71a08b</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>1M</value>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2590d1c-1bb8-4a6d-aa5e-57acdaccc103</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>4.7K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a963913-0d27-4f91-bd32-b8b9e5f6dad0</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>100K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d27c44aa-d06d-44de-b5a1-fdfa257dcfb6</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>100K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>292dfce9-b2da-42d1-8cf2-035cc8b1b664</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>20K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7fd321ea-ca34-4626-b492-924622af666c</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>47K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c2bdd00-8106-45ed-8bf0-24f2913f77e9</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>20</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0332dbc6-1112-4382-8315-97be8aad78ce</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>100K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ccc3380d-8245-4539-adaf-7751d3a93cc0</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>100K</value>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6667799f-5a0d-4433-b64c-118e05d7427e</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>100K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f40784d7-f3f7-46a7-839d-2a0c86ddd254</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>20K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7155e33-430e-44ff-bea7-39a10f066125</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>20K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c50d1868-6b2e-4ce6-9dda-4ae1a3649781</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>1M</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d2d8166-1280-4f04-ae6e-f65e77d7fae7</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>1K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cbd0afbf-56a5-4c7c-9ff0-86942053d638</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>20K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48c6b108-49d4-4efd-9791-09d035fd19c5</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>1K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5b82bd7-5f0f-4566-bd7e-af79744df45f</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>1K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b5dec0b4-d61f-453d-94d6-945b2d984d42</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>10K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c173df5-a86b-4425-894d-8659fb3dd290</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>39K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ebf0c84b-5748-4421-8e3a-36c7c25bd48e</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>200K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b003bc17-4f24-4b69-b7f1-6aee8c9c2c9d</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>20K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fffd3011-0b7d-4494-8db9-0358620d7a4f</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>TL074</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="TL074" description="Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb1cb2be-36d7-475e-b6cd-c070a009b9e0 638bd99b-8fa2-4b9f-a2fd-aa13748906cd f2485aed-e151-45f1-b918-f8cd6abe38d3 5805eed4-0e20-4f3e-b9cd-188d1461ac06 1035e5fc-d3a1-4eaf-9062-d377a3e1ed55</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>TL082</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl081.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="TL082" description="Dual JFET-Input Operational Amplifiers, DIP-8/SOIC-8/SSOP-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b63df732-2c76-4f98-a415-1cc2e0bd8c89 9b12cc09-25f8-4084-8d04-3e11e7f6af04 1378994c-2d04-43c9-83da-650e6acc7dd9</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>LF444</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl081.pdf</datasheet>
+      <libsource lib="dhk" part="LF444" description="Quad JFET-Input Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_SAMPLE_HOLD.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d2e9ee6d-069b-45a2-94e8-72991c64d6c2 edf09861-b067-436a-84f4-0e2606cb7469 5807df64-b753-4681-b699-2557cd72de84 2c3dd5b5-191f-475d-a4b9-d337624cfc6b 1ed1351a-6cc0-4dbe-82ba-13db629e02d2</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Amplifier_Operational" part="TL074">
+      <description>Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tl071.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x8.7mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+        <fp>SSOP*5.3x6.2mm*P0.65mm*</fp>
+        <fp>MSOP*3x3mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TL074</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tl071.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V+" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="-" type="input"/>
+        <pin num="10" name="+" type="input"/>
+        <pin num="11" name="V-" type="power_in"/>
+        <pin num="12" name="+" type="input"/>
+        <pin num="13" name="-" type="input"/>
+        <pin num="14" name="" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Amplifier_Operational" part="TL082">
+      <description>Dual JFET-Input Operational Amplifiers, DIP-8/SOIC-8/SSOP-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tl081.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TO*99*</fp>
+        <fp>OnSemi*Micro8*</fp>
+        <fp>TSSOP*3x3mm*P0.65mm*</fp>
+        <fp>TSSOP*4.4x3mm*P0.65mm*</fp>
+        <fp>MSOP*3x3mm*P0.65mm*</fp>
+        <fp>SSOP*3.9x4.9mm*P0.635mm*</fp>
+        <fp>LFCSP*2x2mm*P0.5mm*</fp>
+        <fp>*SIP*</fp>
+        <fp>SOIC*5.3x6.2mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TL082</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tl081.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Jack-DC">
+      <description>DC Barrel Jack</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Jack-DC</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x01">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer">
+      <description>Potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N914">
+      <description>100V 0.3A Small Signal Fast Switching Diode, DO-35</description>
+      <docs>http://www.vishay.com/docs/85622/1n914.pdf</docs>
+      <footprints>
+        <fp>D*DO?35*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N914</field>
+        <field name="Footprint">Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/85622/1n914.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="2N3904">
+      <description>0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92</description>
+      <docs>https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N3904</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/2N3903-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="dhk" part="J112">
+      <description>5mA min, 35V, 50mOhm max, 1-5V Vgs(off), N-Channel JFET, SOT-23</description>
+      <docs>https://www.onsemi.com/pub/Collateral/MMBFJ113-D.PDF</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">J112</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/MMBFJ113-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="G" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="dhk" part="LF444">
+      <description>Quad JFET-Input Operational Amplifiers, DIP-14/SOIC-14/SSOP-14</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tl081.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x8.7mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+        <fp>SSOP*5.3x6.2mm*P0.65mm*</fp>
+        <fp>MSOP*3x3mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LF444</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tl081.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V+" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="-" type="input"/>
+        <pin num="10" name="+" type="input"/>
+        <pin num="11" name="V-" type="power_in"/>
+        <pin num="12" name="+" type="input"/>
+        <pin num="13" name="-" type="input"/>
+        <pin num="14" name="" type="output"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Amplifier_Operational">
+      <uri>/usr/share/kicad/symbols//Amplifier_Operational.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>/usr/share/kicad/symbols//Diode.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>/usr/share/kicad/symbols//Transistor_BJT.kicad_sym</uri>
+    </library>
+    <library logical="dhk">
+      <uri>/home/hw/kicad_libraries/dhk.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+12V">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="R38" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="U3" pin="4" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="2" name="-12V">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="V-" pintype="power_in"/>
+      <node ref="U1" pin="4" pinfunction="V+" pintype="power_in"/>
+      <node ref="U2" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U3" pin="11" pinfunction="V-" pintype="power_in"/>
+    </net>
+    <net code="3" name="CV1">
+      <node ref="J1" pin="2" pintype="passive"/>
+      <node ref="J20" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="CV2">
+      <node ref="J2" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="GND">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="passive"/>
+      <node ref="J15" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="1" pintype="passive"/>
+      <node ref="J3" pin="1" pintype="passive"/>
+      <node ref="J4" pin="1" pintype="passive"/>
+      <node ref="J5" pin="1" pintype="passive"/>
+      <node ref="J6" pin="1" pintype="passive"/>
+      <node ref="J7" pin="1" pintype="passive"/>
+      <node ref="LED1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="R29" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="R37" pin="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="+" pintype="input"/>
+      <node ref="U1" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U1" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="6" name="GP1">
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R21" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R36" pin="1" pintype="passive"/>
+      <node ref="U3" pin="8" pintype="output"/>
+      <node ref="U3" pin="9" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="7" name="GP2">
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R21" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R21" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="LEDA">
+      <node ref="J16" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="LED1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q3" pin="1" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="10" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pintype="output"/>
+    </net>
+    <net code="11" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="13" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="R39" pin="1" pintype="passive"/>
+      <node ref="U1" pin="14" pintype="output"/>
+    </net>
+    <net code="14" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(C10-Pad2)">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(C13-Pad1)">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="17" name="Net-(C13-Pad2)">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pintype="output"/>
+    </net>
+    <net code="18" name="Net-(C14-Pad1)">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="R41" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(C15-Pad1)">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(C15-Pad2)">
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pintype="output"/>
+    </net>
+    <net code="21" name="Net-(C16-Pad1)">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="22" name="Net-(C17-Pad1)">
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="Q6" pin="1" pinfunction="D" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="23" name="Net-(C18-Pad1)">
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(C18-Pad2)">
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U2" pin="7" pintype="output"/>
+    </net>
+    <net code="25" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(J4-Pad2)">
+      <node ref="J4" pin="2" pintype="passive"/>
+      <node ref="R29" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q2" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(Q1-Pad2)">
+      <node ref="Q1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pintype="output"/>
+    </net>
+    <net code="31" name="Net-(Q2-Pad3)">
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(Q3-Pad2)">
+      <node ref="Q3" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(Q3-Pad3)">
+      <node ref="Q3" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(Q4-Pad1)">
+      <node ref="Q4" pin="1" pinfunction="D" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(Q4-Pad3)">
+      <node ref="Q4" pin="3" pinfunction="G" pintype="input"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(Q5-Pad1)">
+      <node ref="Q5" pin="1" pinfunction="D" pintype="passive"/>
+      <node ref="Q5" pin="3" pinfunction="G" pintype="input"/>
+      <node ref="R39" pin="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(Q5-Pad2)">
+      <node ref="Q5" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q6" pin="3" pinfunction="G" pintype="input"/>
+      <node ref="R40" pin="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(Q6-Pad2)">
+      <node ref="Q6" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="U3" pin="1" pintype="output"/>
+      <node ref="U3" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="39" name="Net-(R10-Pad2)">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="40" name="Net-(R12-Pad1)">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(R23-Pad2)">
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="42" name="Net-(R25-Pad2)">
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="43" name="Net-(R34-Pad1)">
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="-" pintype="input"/>
+      <node ref="U3" pin="14" pintype="output"/>
+    </net>
+    <net code="44" name="Net-(R35-Pad2)">
+      <node ref="R35" pin="2" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="45" name="Net-(R37-Pad2)">
+      <node ref="R37" pin="2" pintype="passive"/>
+      <node ref="R38" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="46" name="Net-(R41-Pad2)">
+      <node ref="R41" pin="2" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="47" name="Net-(U3-Pad10)">
+      <node ref="U3" pin="10" pinfunction="+" pintype="input"/>
+      <node ref="U3" pin="6" pinfunction="-" pintype="input"/>
+      <node ref="U3" pin="7" pintype="output"/>
+    </net>
+    <net code="48" name="SRCV">
+      <node ref="J18" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="49" name="SRH">
+      <node ref="J17" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="50" name="SRL">
+      <node ref="J19" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="51" name="SVIN">
+      <node ref="J14" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R29" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+    </net>
+    <net code="52" name="SVO1">
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="2" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+    </net>
+    <net code="53" name="SVO2">
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J6" pin="2" pintype="passive"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+    </net>
+    <net code="54" name="SYNC">
+      <node ref="J13" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J7" pin="2" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+    </net>
+    <net code="55" name="TRG">
+      <node ref="J12" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+    </net>
+  </nets>
+</export>

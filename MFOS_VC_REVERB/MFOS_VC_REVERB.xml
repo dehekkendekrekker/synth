@@ -1,0 +1,1537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/hw/kicad_projects/synth/MFOS_VC_REVERB/MFOS_VC_REVERB.kicad_sch</source>
+    <date>Mon 05 Jun 2023 08:52:51 PM EDT</date>
+    <tool>Eeschema 6.0.8-f2edbf62ab~116~ubuntu22.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>MFOS_VC_REVERB.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1uF</value>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>606d3464-63cb-40e3-b035-16d9c16907d9</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100pF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7bc28e8c-0f2d-4e67-8cd7-6452c605028f</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>220uF</value>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5b2d4a1-6855-429c-b5e2-b85564ce7f7e</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>.047uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0dffe6a2-2ce2-40ae-bd97-177494f069fd</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b13131c5-9288-4a1e-aeb3-c6081c74f423</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>220uF</value>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00113175-07e0-431c-a9db-4f0596ed5391</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>220uF</value>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3aadf952-0306-42f0-9efa-2a54b2356dad</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>10uF</value>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f9bfaf1-9f19-4bd4-923b-3fc263111e14</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>10uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>beaacf12-64e3-4336-81cd-0fd1d8a3ceae</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bcc5d16a-4126-4bdd-83ae-2a6a0f4c4681</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae6f5a78-42f1-404d-8896-8f3b4d2cd861</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>296bd974-6ab8-4349-8f5b-88feaff64373</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d5e93d2-190b-4144-9f1e-7828ef279534</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>.01uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b627c1a9-da8b-40a4-9367-95de0d04418d</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b6b6002-6970-45a6-a977-5ac029b202f6</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe360920-609b-4e40-af60-f120ca3f238f</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96cc0ee5-f0fd-4654-9e0c-120c1c33932c</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd125e39-857b-47f0-8e6b-76e66d9f0f77</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>935461e8-c00a-4be1-b878-ab1fb9e66c96</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>10uF</value>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b417230c-7dd2-4422-b6fe-6ef2f42a7fb8</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3c762ea-fd05-4756-a3c5-4c61a9213b86</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>644171d3-78d9-48ed-bdc1-8098423c516d</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5383c69d-7006-4f4b-a14b-46d4fdfe8d31</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9eb35b1f-9ab7-4ba8-b5fa-c4f96c2e249f</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>.1uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a03eb337-d658-45f0-933d-f5482402c541</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>10uF</value>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f240a89-1d04-4c8e-8e77-ca3233e88e62</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>.022uF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>261dd35d-6e3b-47e8-9283-3f3e371de975</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N914</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/85622/1n914.pdf</datasheet>
+      <libsource lib="Diode" part="1N914" description="100V 0.3A Small Signal Fast Switching Diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9030ef5b-d1be-4308-a944-a9031986d57d</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>1N914</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/85622/1n914.pdf</datasheet>
+      <libsource lib="Diode" part="1N914" description="100V 0.3A Small Signal Fast Switching Diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e998be8-0c4c-4cfc-888c-a23d1a3126ff</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>1N914</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/85622/1n914.pdf</datasheet>
+      <libsource lib="Diode" part="1N914" description="100V 0.3A Small Signal Fast Switching Diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>931072f5-5d3a-4e43-aebb-62160e5b789f</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>1N914</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/85622/1n914.pdf</datasheet>
+      <libsource lib="Diode" part="1N914" description="100V 0.3A Small Signal Fast Switching Diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b039226f-78f5-487a-b9af-be262a7ccf5f</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Barrel_Jack</value>
+      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>21762559-bbc7-4c4c-bc87-f7e5de78c021</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Barrel_Jack</value>
+      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f215c7a1-780b-4b2f-80e4-69d52e046a20</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Barrel_Jack</value>
+      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27e84cd8-bc40-4382-a5b9-56e118596adb</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Barrel_Jack</value>
+      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>782c88b5-a5f2-48a4-a2c7-5fee38eec55c</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x01</value>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ed88909-fcaf-4ca8-9b66-09ee40334cb2</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x01</value>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a46017df-70eb-4aa0-95f5-1838a12f94f4</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_01x01</value>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3911916-001f-481b-8bb5-6405d334e8ac</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Conn_01x01</value>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95d0de7b-2b7c-4a2c-9d5c-443ca862bd30</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>Conn_01x01</value>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>256b7d88-192a-4c2d-bd5e-5ff3d1ccfc25</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>Conn_01x01</value>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6298570-93ec-4c74-8cb9-18900ef9636a</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>Conn_01x01</value>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7799bd63-ea4f-48b1-a948-22aaa14274c8</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>Conn_01x01</value>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56e35f34-3646-49e9-bcd1-ab0315c4bbf6</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>Conn_01x01</value>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93c91570-8bf6-410d-a460-a44a587dac3d</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>Conn_Coaxial</value>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>352b8015-7e6c-47f1-80b3-edcdf4bb3b87</tstamps>
+    </comp>
+    <comp ref="J15">
+      <value>Conn_Coaxial</value>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae3fa366-fdde-4c61-b4ad-9956c6e9a039</tstamps>
+    </comp>
+    <comp ref="LED1">
+      <value>LED1</value>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dbeb0aeb-db00-4aa9-b9b1-057002484214</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>2N3906</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/2N3906-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3906" description="-0.2A Ic, -40V Vce, Small Signal PNP Transistor, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02265850-25bf-429b-8442-480b198625c9</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>2N3906</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/2N3906-D.PDF</datasheet>
+      <libsource lib="Transistor_BJT" part="2N3906" description="-0.2A Ic, -40V Vce, Small Signal PNP Transistor, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6dfbab24-d152-4170-a698-b707dfda0ede</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1M</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83dd5e10-aeca-498b-8c84-23637a4dda12</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>6.2K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45c4adfc-eac9-4a88-a5d7-fbed4cf747a4</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1M</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ebc8f78-ff89-461d-8fcf-acc5ff725c2f</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>1K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34c49a20-ada9-4187-b7e4-daeb020339eb</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4bc7303a-0805-43e5-9373-7cfd3c0eb0a3</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57d2b226-af48-4d01-897a-44f0b8d35f0d</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>15K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0482966-6bfc-476c-b99f-98ba1f20ac17</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>200K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce1ab02f-605b-4169-8522-f1b236ab7ebc</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be26c0c2-b16c-4d98-a844-7d3846dea331</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>4.7K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ef4d511-1c47-4e06-87d9-8b28dd94aac2</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>43K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fef99957-94d2-4e18-a228-26f44b096fd7</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>1K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c210b3b-2516-42f2-ab21-f2f87ead1479</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>100K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2bf216fa-646d-46a5-9fc4-1d32477ee2be</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>100K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24a90612-bba6-48bc-bd02-f958a93de501</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>100K</value>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7fdac396-7df2-4f35-a4d5-1d819d7c91a4</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>47K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ef9e4a2-983f-4cf7-b91b-0b4b190fb353</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>470K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9622b11c-22b2-44df-a641-cc20aa9d64cc</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>100K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f0b7bf1-3949-4fae-a5ae-9b018bdca373</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>200K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b43ae251-8082-42fa-9ddf-c2c885d52ddb</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>10K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb757905-bfbe-420e-9227-26e7ff24e00e</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>270K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ce9389e5-40a2-407d-931c-f86534995ac6</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>15K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85092dac-9a5c-4705-8581-ff8d317fd87c</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>100K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99936c12-2938-4dce-92cf-7f4380494620</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>100K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>792715ae-38d5-491f-913f-1ddeff4aa165</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>43K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f11e960b-355d-44f9-99a7-aa99ca062116</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>1K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fca48098-0ddb-4348-9f4e-288210f90bb4</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>4.7K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4793dfd3-0769-4222-80d5-86b3bcfd184d</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>100K</value>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d61145dd-a3dd-4b33-8a43-0b105de72943</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>100K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1048438d-f2d1-4af1-bf00-fc07e924076e</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>100K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c7cd6d3-805a-476e-926e-484d82cf4e1a</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>100K</value>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>90d2094a-2fd3-4829-9723-e04050576177</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>47K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56e2aa68-fe90-4ab1-a33f-13e0627e758a</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>470K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07222a92-3c9b-4f90-8db3-6d8cf2fafdee</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>1M</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94c74e69-5493-457e-8dc1-dc84cd2cd1a6</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>1M</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d7f3b1c7-e171-422e-9232-2815fab9ff58</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>1K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1fc29c3e-fb69-4e3a-af65-760500414a62</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>200K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9125e4d6-c5eb-4e1f-896b-fac154749d11</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>3.3K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7105ffaf-66db-4e8e-9a7c-29f55a932593</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>1K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3049f4c9-1dad-4ed0-8809-b60f446a14f1</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>100K</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>afa27f18-c827-49f5-8e30-f1604b554a8f</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>LM386</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm386.pdf</datasheet>
+      <libsource lib="Amplifier_Audio" part="LM386" description="Low Voltage Audio Power Amplifier, DIP-8/SOIC-8/SSOP-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88c9c333-a012-4c13-8b6d-6b752ac1756b</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>LF411</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl081.pdf</datasheet>
+      <libsource lib="dhk" part="LF411" description="Quad JFET-Input Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61db3c1c-626c-41c7-bffb-700eec40aa12 f2084bcc-784d-4abf-bc29-87e28d0d8c8b 2eae4df6-abf6-41aa-bc40-4dcf9aa9d554</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>TL074</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
+      <libsource lib="" part="TL074_1" description="Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee07f5b8-493d-4968-89a7-5838df5b71a2 d4c7593a-d692-4434-adcb-bec911a81e12 6c0cce3a-3810-4fab-ae5e-bd655b6ab16f db6168fb-65ec-486f-ac80-cce6f40db0bc 3a4efc39-a180-47d5-aba4-9cad6f6de04f</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>LM13700</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm13700.pdf</datasheet>
+      <libsource lib="" part="LM13700_2" description="Dual Operational Transconductance Amplifiers with Linearizing Diodes and Buffers, DIP-16/SOIC-16"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96dcef41-a0d9-41ce-bc7b-b1c99f806879 630aed58-19ca-4f0c-a897-8c81d5a5833f a7a1d0b1-b698-4a2c-96e1-2f7bc3f8f7f9 ba956498-4508-4d71-bf33-332d42f16957 19369419-1d0f-476b-bc62-126558204b1a</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>TL072</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="TL072" description="Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a4d283e-5666-4437-a997-1e54d0c8ae8d ac0c235d-7edb-4c11-b0b9-dbf2afb2cdaa 5a043309-2c8e-4661-9fe6-b3d5cb479af7</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>TL072</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl071.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="TL072" description="Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1a42f5f-313c-4eba-ba8d-8931845a106e d229d4bf-a303-4f3a-ad25-e769e093b8b4 3a4daa1c-bb7d-4d76-8d31-f30cbdaf4527</tstamps>
+    </comp>
+    <comp ref="Z1">
+      <value>1N5231B</value>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4dc80158-7ae6-4714-889d-e1f1c96a1556</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="LM13700_2">
+      <description>Dual Operational Transconductance Amplifiers with Linearizing Diodes and Buffers, DIP-16/SOIC-16</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm13700.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x9.9mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM13700_2</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm13700.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="DIODE_BIAS" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="-" type="input"/>
+        <pin num="5" name="" type="output"/>
+        <pin num="6" name="V-" type="power_in"/>
+        <pin num="7" name="" type="input"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="" type="output"/>
+        <pin num="10" name="" type="input"/>
+        <pin num="11" name="V+" type="power_in"/>
+        <pin num="12" name="" type="output"/>
+        <pin num="13" name="-" type="input"/>
+        <pin num="14" name="+" type="input"/>
+        <pin num="15" name="DIODE_BIAS" type="input"/>
+        <pin num="16" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="TL074_1">
+      <description>Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tl071.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x8.7mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+        <fp>SSOP*5.3x6.2mm*P0.65mm*</fp>
+        <fp>MSOP*3x3mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TL074_1</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tl071.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V+" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="-" type="input"/>
+        <pin num="10" name="+" type="input"/>
+        <pin num="11" name="V-" type="power_in"/>
+        <pin num="12" name="+" type="input"/>
+        <pin num="13" name="-" type="input"/>
+        <pin num="14" name="" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Amplifier_Audio" part="LM386">
+      <description>Low Voltage Audio Power Amplifier, DIP-8/SOIC-8/SSOP-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm386.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>MSSOP*P0.65mm*</fp>
+        <fp>TSSOP*3x3mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM386</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm386.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GAIN" type="input"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="" type="output"/>
+        <pin num="6" name="V+" type="power_in"/>
+        <pin num="7" name="BYPASS" type="input"/>
+        <pin num="8" name="GAIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Amplifier_Operational" part="TL072">
+      <description>Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tl071.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TO*99*</fp>
+        <fp>OnSemi*Micro8*</fp>
+        <fp>TSSOP*3x3mm*P0.65mm*</fp>
+        <fp>TSSOP*4.4x3mm*P0.65mm*</fp>
+        <fp>MSOP*3x3mm*P0.65mm*</fp>
+        <fp>SSOP*3.9x4.9mm*P0.635mm*</fp>
+        <fp>LFCSP*2x2mm*P0.5mm*</fp>
+        <fp>*SIP*</fp>
+        <fp>SOIC*5.3x6.2mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TL072</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tl071.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Barrel_Jack">
+      <description>DC Barrel Jack</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Barrel_Jack</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_Coaxial">
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>*BNC*</fp>
+        <fp>*SMA*</fp>
+        <fp>*SMB*</fp>
+        <fp>*SMC*</fp>
+        <fp>*Cinch*</fp>
+        <fp>*LEMO*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_Coaxial</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x01">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Zener">
+      <description>Zener diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer">
+      <description>Potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N914">
+      <description>100V 0.3A Small Signal Fast Switching Diode, DO-35</description>
+      <docs>http://www.vishay.com/docs/85622/1n914.pdf</docs>
+      <footprints>
+        <fp>D*DO?35*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N914</field>
+        <field name="Footprint">Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/85622/1n914.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="2N3906">
+      <description>-0.2A Ic, -40V Vce, Small Signal PNP Transistor, TO-92</description>
+      <docs>https://www.onsemi.com/pub/Collateral/2N3906-D.PDF</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N3906</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/2N3906-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="dhk" part="LF411">
+      <description>Quad JFET-Input Operational Amplifiers, DIP-14/SOIC-14/SSOP-14</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tl081.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x8.7mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+        <fp>SSOP*5.3x6.2mm*P0.65mm*</fp>
+        <fp>MSOP*3x3mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LF411</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tl081.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="BAL1" type="input"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="BAL2" type="input"/>
+        <pin num="6" name="" type="output"/>
+        <pin num="7" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Amplifier_Audio">
+      <uri>/usr/share/kicad/symbols//Amplifier_Audio.kicad_sym</uri>
+    </library>
+    <library logical="Amplifier_Operational">
+      <uri>/usr/share/kicad/symbols//Amplifier_Operational.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>/usr/share/kicad/symbols//Diode.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>/usr/share/kicad/symbols//Transistor_BJT.kicad_sym</uri>
+    </library>
+    <library logical="dhk">
+      <uri>/home/hw/kicad_libraries/dhk.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R15" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R31" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="Z1" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="2" name="+12V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="R37" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="V+" pintype="power_in"/>
+      <node ref="U2" pin="7" pinfunction="V+" pintype="power_in"/>
+      <node ref="U3" pin="4" pinfunction="V+" pintype="power_in"/>
+      <node ref="U4" pin="11" pinfunction="V+" pintype="power_in"/>
+      <node ref="U5" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="U6" pin="8" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="3" name="-12V">
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U3" pin="11" pinfunction="V-" pintype="power_in"/>
+      <node ref="U4" pin="6" pinfunction="V-" pintype="power_in"/>
+      <node ref="U5" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U6" pin="4" pinfunction="V-" pintype="power_in"/>
+    </net>
+    <net code="4" name="/X2">
+      <node ref="J15" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="5" name="/X5">
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="2" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="6" name="/X6">
+      <node ref="J2" pin="2" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="/X7">
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="8" name="/X8">
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="R31" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="9" name="/X9">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R28" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="10" name="/X10">
+      <node ref="J12" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="2" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+    </net>
+    <net code="11" name="/X11">
+      <node ref="J13" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="LED1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="passive"/>
+      <node ref="J14" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J15" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J2" pin="1" pintype="passive"/>
+      <node ref="J3" pin="1" pintype="passive"/>
+      <node ref="J4" pin="1" pintype="passive"/>
+      <node ref="LED1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="R28" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+      <node ref="R38" pin="2" pintype="passive"/>
+      <node ref="R39" pin="1" pintype="passive"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="-" pintype="input"/>
+      <node ref="U1" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="10" pinfunction="+" pintype="input"/>
+      <node ref="U3" pin="5" pinfunction="+" pintype="input"/>
+      <node ref="U4" pin="13" pinfunction="-" pintype="input"/>
+      <node ref="U4" pin="4" pinfunction="-" pintype="input"/>
+      <node ref="U5" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U5" pin="5" pinfunction="+" pintype="input"/>
+      <node ref="Z1" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="13" name="LVS">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R15" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R31" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="15" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U2" pin="6" pintype="output"/>
+    </net>
+    <net code="16" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pintype="output"/>
+    </net>
+    <net code="17" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="BYPASS" pintype="input"/>
+    </net>
+    <net code="20" name="Net-(C9-Pad1)">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="U5" pin="7" pintype="output"/>
+    </net>
+    <net code="21" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U4" pin="8" pintype="output"/>
+    </net>
+    <net code="22" name="Net-(C10-Pad2)">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(C11-Pad1)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(C11-Pad2)">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="U5" pin="1" pintype="output"/>
+    </net>
+    <net code="25" name="Net-(C12-Pad1)">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="U4" pin="9" pintype="output"/>
+    </net>
+    <net code="26" name="Net-(C12-Pad2)">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(C13-Pad2)">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(C14-Pad1)">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="U6" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="29" name="Net-(C27-Pad1)">
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="R40" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="30" name="Net-(C27-Pad2)">
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="R39" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="32" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="U3" pin="1" pintype="output"/>
+    </net>
+    <net code="33" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q2" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="34" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="U3" pin="14" pintype="output"/>
+    </net>
+    <net code="35" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U6" pin="1" pintype="output"/>
+    </net>
+    <net code="36" name="Net-(J3-Pad2)">
+      <node ref="J3" pin="2" pintype="passive"/>
+      <node ref="R28" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(Q1-Pad3)">
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="U4" pin="1" pintype="input"/>
+    </net>
+    <net code="38" name="Net-(Q2-Pad3)">
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="U4" pin="16" pintype="input"/>
+    </net>
+    <net code="39" name="Net-(R11-Pad1)">
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="40" name="Net-(R11-Pad2)">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U3" pin="7" pintype="output"/>
+    </net>
+    <net code="41" name="Net-(R12-Pad2)">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="42" name="Net-(R16-Pad2)">
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U4" pin="5" pintype="output"/>
+      <node ref="U4" pin="7" pintype="input"/>
+    </net>
+    <net code="43" name="Net-(R18-Pad2)">
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="U5" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="44" name="Net-(R19-Pad2)">
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="U4" pin="14" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="45" name="Net-(R23-Pad2)">
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="46" name="Net-(R25-Pad1)">
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="47" name="Net-(R25-Pad2)">
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="+" pintype="input"/>
+      <node ref="U3" pin="8" pintype="output"/>
+    </net>
+    <net code="48" name="Net-(R32-Pad2)">
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="U4" pin="10" pintype="input"/>
+      <node ref="U4" pin="12" pintype="output"/>
+    </net>
+    <net code="49" name="Net-(R35-Pad2)">
+      <node ref="R35" pin="2" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="50" name="Net-(R36-Pad1)">
+      <node ref="R36" pin="1" pintype="passive"/>
+      <node ref="U6" pin="7" pintype="output"/>
+    </net>
+    <net code="51" name="Net-(R37-Pad2)">
+      <node ref="R37" pin="2" pintype="passive"/>
+      <node ref="R38" pin="1" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="-" pintype="input"/>
+      <node ref="U6" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="52" name="OL">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="J14" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+    </net>
+    <net code="53" name="unconnected-(U1-Pad1)">
+      <node ref="U1" pin="1" pinfunction="GAIN" pintype="input+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(U1-Pad8)">
+      <node ref="U1" pin="8" pinfunction="GAIN" pintype="input+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(U2-Pad1)">
+      <node ref="U2" pin="1" pinfunction="BAL1" pintype="input+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(U2-Pad5)">
+      <node ref="U2" pin="5" pinfunction="BAL2" pintype="input+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(U4-Pad2)">
+      <node ref="U4" pin="2" pinfunction="DIODE_BIAS" pintype="input+no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(U4-Pad15)">
+      <node ref="U4" pin="15" pinfunction="DIODE_BIAS" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>

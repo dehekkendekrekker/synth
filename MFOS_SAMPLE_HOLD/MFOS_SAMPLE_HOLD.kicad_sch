@@ -1601,7 +1601,7 @@
     (uuid 6bb744b7-50d0-41c3-9744-78998dab11f8)
   )
   (junction (at 234.95 97.79) (diameter 0) (color 0 0 0 0)
-    (uuid 6bb744b7-50d0-41c3-9744-78998dab11f8)
+    (uuid 6bb744b7-50d0-41c3-9744-78998dab11f9)
   )
   (junction (at 152.4 96.52) (diameter 0) (color 0 0 0 0)
     (uuid 6f17e0b4-ed44-49c9-8560-332ad58402da)
@@ -4317,7 +4317,7 @@
     (in_bom yes) (on_board yes)
     (uuid 9da687fc-1551-41db-960a-e23aea2daa27)
     (property "Reference" "R5" (id 0) (at 198.12 24.13 90))
-    (property "Value" "4.7K" (id 1) (at 198.12 26.67 90))
+    (property "Value" "1K" (id 1) (at 198.12 26.67 90))
     (property "Footprint" "" (id 2) (at 198.12 28.448 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5816,7 +5816,7 @@
       (reference "R4") (unit 1) (value "10K") (footprint "")
     )
     (path "/9da687fc-1551-41db-960a-e23aea2daa27"
-      (reference "R5") (unit 1) (value "4.7K") (footprint "")
+      (reference "R5") (unit 1) (value "1K") (footprint "")
     )
     (path "/f7d900a7-907c-49dd-9ace-fc968800f1a3"
       (reference "R6") (unit 1) (value "100K") (footprint "")
