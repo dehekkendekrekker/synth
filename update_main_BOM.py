@@ -43,9 +43,9 @@ def get_collated_data(file):
 
     return result
 
-    
+   
 
-
+sheets={}
             
 with pd.ExcelFile("BOM.ods") as xls:
 
@@ -56,8 +56,16 @@ with pd.ExcelFile("BOM.ods") as xls:
         tabname = str(path).split("/")[0]
         sheet = pd.read_excel(xls, tabname, engine="odf")
         sheet.update(data)
+        sheets[tabname] = sheet
+
+with pd.ExcelWriter("BOM2.ods") as xls:
+    for name, sheet in sheets.items():
+        sheet.to_excel(xls, sheet_name=name)
+
+
+
         
-    xls.to_excel("BOM.ods")
+    
 
     
      
