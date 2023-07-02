@@ -1,5 +1,5 @@
 #!/bin/python3
-from pyexcel_ods3 import get_data
+import pandas as pd
 from pathlib import Path
 import json
 import csv
@@ -47,15 +47,17 @@ def get_collated_data(file):
 
 
             
+with pd.ExcelFile("BOM.ods") as xls:
 
-odsbom = get_data("BOM.ods")
-print(json.dumps(data))
+    # Get all .csv files
+    pathlist = Path(".").glob('**/*.csv')
+    for path in pathlist:
+        data = get_collated_data(path)
+        tabname = str(path).split("/")[0]
+        sheet = pd.read_excel(xls, tabname, engine="odf")
+        sheet.update(data)
+        sheet.to_excel("BOM.ids", tabname, engine="odf")
 
-
-# Get all .csv files
-pathlist = Path(".").glob('**/*.csv')
-for path in pathlist:
-    data = get_collated_data(path)
-    tabname = str(path).split("/")[0]
-    odsbom[tabname] = data
+    
      
+
