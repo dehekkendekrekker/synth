@@ -56,7 +56,8 @@ with pd.ExcelFile("BOM.ods") as xls:
         tabname = str(path).split("/")[0]
         sheet = pd.read_excel(xls, tabname, engine="odf")
         sheet.update(data)
-        sheet.to_excel("BOM.ids", tabname, engine="odf")
+        
+    xls.to_excel("BOM.ods")
 
     
      
