@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/hw/kicad_projects/synth/MFOS_SEQ_ANALOG/MFOS_SEQ_ANALOG.kicad_sch</source>
-    <date>Sun 02 Jul 2023 11:17:57 AM EDT</date>
+    <date>Thu 20 Jul 2023 02:09:54 PM EDT</date>
     <tool>Eeschema 6.0.8-f2edbf62ab~116~ubuntu22.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -34,7 +34,7 @@
     </comp>
     <comp ref="C2">
       <value>100uF</value>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_SEQ_ANALOG.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -42,7 +42,7 @@
     </comp>
     <comp ref="C3">
       <value>100uF</value>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_SEQ_ANALOG.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -721,7 +721,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_SEQ_ANALOG.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>963b3f11-d6e2-47ea-b1be-6450b08705b7 b27b7ab1-6c1c-4aa9-baa2-4ff839f1a4b8 1a6171de-b10b-411d-9469-6ee5a46fa426</tstamps>
+      <tstamps>b27b7ab1-6c1c-4aa9-baa2-4ff839f1a4b8 963b3f11-d6e2-47ea-b1be-6450b08705b7 1a6171de-b10b-411d-9469-6ee5a46fa426</tstamps>
     </comp>
     <comp ref="VS1">
       <value>LM336-2.5V</value>
@@ -870,6 +870,22 @@
       <fields>
         <field name="Reference">C</field>
         <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
         <field name="Datasheet">~</field>
       </fields>
       <pins>

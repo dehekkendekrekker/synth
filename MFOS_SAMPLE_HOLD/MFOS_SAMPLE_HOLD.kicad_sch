@@ -3502,7 +3502,7 @@
     (property "Reference" "Q5" (id 0) (at 170.18 180.34 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "J112" (id 1) (at 163.83 181.61 0)
+    (property "Value" "MPF102" (id 1) (at 163.83 181.61 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 169.545 171.45 0)
@@ -4035,7 +4035,7 @@
     (in_bom yes) (on_board yes)
     (uuid 7319e780-225d-49c8-b443-e4647f2dcf5f)
     (property "Reference" "Q4" (id 0) (at 40.64 115.57 90))
-    (property "Value" "J112" (id 1) (at 52.07 115.57 90))
+    (property "Value" "MPF102" (id 1) (at 52.07 115.57 90))
     (property "Footprint" "" (id 2) (at 47.625 110.49 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
@@ -4326,7 +4326,7 @@
     (property "Reference" "Q6" (id 0) (at 185.42 170.18 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "J112" (id 1) (at 195.58 171.45 90)
+    (property "Value" "MPF102" (id 1) (at 195.58 171.45 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 194.31 172.085 0)
@@ -5846,13 +5846,13 @@
       (reference "Q3") (unit 1) (value "2N3904") (footprint "Package_TO_SOT_THT:TO-92_Inline")
     )
     (path "/7319e780-225d-49c8-b443-e4647f2dcf5f"
-      (reference "Q4") (unit 1) (value "J112") (footprint "")
+      (reference "Q4") (unit 1) (value "MPF102") (footprint "")
     )
     (path "/411993a9-df9b-475b-acd7-b390e54f2b94"
-      (reference "Q5") (unit 1) (value "J112") (footprint "")
+      (reference "Q5") (unit 1) (value "MPF102") (footprint "")
     )
     (path "/945ed899-8bd2-4078-9704-4e2d00c36e55"
-      (reference "Q6") (unit 1) (value "J112") (footprint "")
+      (reference "Q6") (unit 1) (value "MPF102") (footprint "")
     )
     (path "/e2538d12-72dc-4511-9398-0137f338d898"
       (reference "R1") (unit 1) (value "20K") (footprint "")

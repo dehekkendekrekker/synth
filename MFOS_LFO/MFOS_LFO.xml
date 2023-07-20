@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/hw/kicad_projects/synth/MFOS_LFO/MFOS_LFO.kicad_sch</source>
-    <date>Sun 02 Jul 2023 10:44:30 AM EDT</date>
+    <date>Thu 20 Jul 2023 01:40:06 PM EDT</date>
     <tool>Eeschema 6.0.8-f2edbf62ab~116~ubuntu22.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -442,7 +442,7 @@
     </comp>
     <comp ref="R25">
       <value>100K</value>
-      <libsource lib="Device" part="R_Potentiometer_Trim" description="Trim-potentiometer"/>
+      <libsource lib="dhk" part="R_Potentiometer_Trim" description="Trim-potentiometer"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_LFO.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -610,7 +610,7 @@
     </comp>
     <comp ref="R46">
       <value>2K</value>
-      <libsource lib="Device" part="R_Potentiometer_Trim" description="Trim-potentiometer"/>
+      <libsource lib="dhk" part="R_Potentiometer_Trim" description="Trim-potentiometer"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_LFO.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -796,7 +796,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_LFO.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>c9d90d09-5c95-4d18-b3df-201f0628098f 41f03bb0-7b3c-4c28-8b10-747c58223652 3b114c85-22bd-4376-840a-303f44bd7101</tstamps>
+      <tstamps>41f03bb0-7b3c-4c28-8b10-747c58223652 c9d90d09-5c95-4d18-b3df-201f0628098f 3b114c85-22bd-4376-840a-303f44bd7101</tstamps>
     </comp>
     <comp ref="U6">
       <value>TL082</value>
@@ -805,7 +805,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_LFO.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>b9ba8540-a92e-4f17-b62b-31fa6fbb5423 c14e1a93-30c9-44f6-874c-4ca34ce63172 26eb1917-ee8e-45a9-99d6-2184f243199e</tstamps>
+      <tstamps>c14e1a93-30c9-44f6-874c-4ca34ce63172 b9ba8540-a92e-4f17-b62b-31fa6fbb5423 26eb1917-ee8e-45a9-99d6-2184f243199e</tstamps>
     </comp>
   </components>
   <libparts>
@@ -1050,23 +1050,6 @@
         <pin num="3" name="3" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="Device" part="R_Potentiometer_Trim">
-      <description>Trim-potentiometer</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>Potentiometer*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">RV</field>
-        <field name="Value">R_Potentiometer_Trim</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="1" type="passive"/>
-        <pin num="2" name="2" type="passive"/>
-        <pin num="3" name="3" type="passive"/>
-      </pins>
-    </libpart>
     <libpart lib="Diode" part="1N914">
       <description>100V 0.3A Small Signal Fast Switching Diode, DO-35</description>
       <docs>http://www.vishay.com/docs/85622/1n914.pdf</docs>
@@ -1138,6 +1121,23 @@
         <pin num="3" name="D" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="dhk" part="R_Potentiometer_Trim">
+      <description>Trim-potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer_Trim</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
   </libparts>
   <libraries>
     <library logical="Amplifier_Operational">
@@ -1160,6 +1160,9 @@
     </library>
     <library logical="Transistor_FET">
       <uri>/usr/share/kicad/symbols//Transistor_FET.kicad_sym</uri>
+    </library>
+    <library logical="dhk">
+      <uri>/home/hw/kicad_libraries/dhk.kicad_sym</uri>
     </library>
   </libraries>
   <nets>

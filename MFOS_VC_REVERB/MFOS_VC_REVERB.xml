@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/hw/kicad_projects/synth/MFOS_VC_REVERB/MFOS_VC_REVERB.kicad_sch</source>
-    <date>Sun 02 Jul 2023 01:26:50 PM EDT</date>
+    <date>Thu 20 Jul 2023 01:50:25 PM EDT</date>
     <tool>Eeschema 6.0.8-f2edbf62ab~116~ubuntu22.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -281,7 +281,7 @@
       <tstamps>b039226f-78f5-487a-b9af-be262a7ccf5f</tstamps>
     </comp>
     <comp ref="J1">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
@@ -289,7 +289,7 @@
       <tstamps>21762559-bbc7-4c4c-bc87-f7e5de78c021</tstamps>
     </comp>
     <comp ref="J2">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
@@ -297,7 +297,7 @@
       <tstamps>f215c7a1-780b-4b2f-80e4-69d52e046a20</tstamps>
     </comp>
     <comp ref="J3">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
@@ -305,7 +305,7 @@
       <tstamps>27e84cd8-bc40-4382-a5b9-56e118596adb</tstamps>
     </comp>
     <comp ref="J4">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>
@@ -331,7 +331,7 @@
       <tstamps>ae3fa366-fdde-4c61-b4ad-9956c6e9a039</tstamps>
     </comp>
     <comp ref="LED1">
-      <value>LED1</value>
+      <value>LED</value>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_VC_REVERB.kicad_sch"/>

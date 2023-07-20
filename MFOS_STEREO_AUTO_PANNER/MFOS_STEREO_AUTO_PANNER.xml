@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/hw/kicad_projects/synth/MFOS_STEREO_AUTO_PANNER/MFOS_STEREO_AUTO_PANNER.kicad_sch</source>
-    <date>Sun 02 Jul 2023 11:49:18 AM EDT</date>
+    <date>Thu 20 Jul 2023 01:48:59 PM EDT</date>
     <tool>Eeschema 6.0.8-f2edbf62ab~116~ubuntu22.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -250,7 +250,7 @@
     </comp>
     <comp ref="R5">
       <value>1K</value>
-      <libsource lib="Device" part="R_Potentiometer_Trim" description="Trim-potentiometer"/>
+      <libsource lib="dhk" part="R_Potentiometer_Trim" description="Trim-potentiometer"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_AUTO_PANNER.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -274,7 +274,7 @@
     </comp>
     <comp ref="R8">
       <value>100k</value>
-      <libsource lib="Device" part="R_Potentiometer_Trim" description="Trim-potentiometer"/>
+      <libsource lib="dhk" part="R_Potentiometer_Trim" description="Trim-potentiometer"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_AUTO_PANNER.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -627,7 +627,7 @@
     </comp>
     <comp ref="R52">
       <value>100k</value>
-      <libsource lib="Device" part="R_Potentiometer_Trim" description="Trim-potentiometer"/>
+      <libsource lib="dhk" part="R_Potentiometer_Trim" description="Trim-potentiometer"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_AUTO_PANNER.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -643,7 +643,7 @@
     </comp>
     <comp ref="R54">
       <value>100k</value>
-      <libsource lib="Device" part="R_Potentiometer_Trim" description="Trim-potentiometer"/>
+      <libsource lib="dhk" part="R_Potentiometer_Trim" description="Trim-potentiometer"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_AUTO_PANNER.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -705,7 +705,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_AUTO_PANNER.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>a2ca3ad8-c167-4e58-8109-c9b5d28e3856 7481f710-779c-4a96-b741-c285dde54aa4 d9414e52-e8c7-40d7-83f0-414ece7e4c36 f9cde1d4-f117-4b80-9ef1-fd21e927a7dd 6d78be90-add5-410e-95b6-0c683e821d13</tstamps>
+      <tstamps>a2ca3ad8-c167-4e58-8109-c9b5d28e3856 7481f710-779c-4a96-b741-c285dde54aa4 f9cde1d4-f117-4b80-9ef1-fd21e927a7dd d9414e52-e8c7-40d7-83f0-414ece7e4c36 6d78be90-add5-410e-95b6-0c683e821d13</tstamps>
     </comp>
     <comp ref="U3">
       <value>TL082</value>
@@ -750,7 +750,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_AUTO_PANNER.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>eb142ee1-6bee-4ce6-b74e-de4a3da30229 c9530891-7b55-4db5-a8cd-bd8ad9cad417 40289571-d54e-401e-a2b3-dd039691d108 498a6ae3-86e8-41a8-8860-7f8ced205ccb a7f7e54e-d287-401d-9d31-8730e10d6393 69c3a2f2-0c1c-43f4-b453-cc176aca539e 27c941d7-d1ed-4176-b810-0214808238a3</tstamps>
+      <tstamps>eb142ee1-6bee-4ce6-b74e-de4a3da30229 c9530891-7b55-4db5-a8cd-bd8ad9cad417 40289571-d54e-401e-a2b3-dd039691d108 69c3a2f2-0c1c-43f4-b453-cc176aca539e 498a6ae3-86e8-41a8-8860-7f8ced205ccb a7f7e54e-d287-401d-9d31-8730e10d6393 27c941d7-d1ed-4176-b810-0214808238a3</tstamps>
     </comp>
     <comp ref="U8">
       <value>4013</value>
@@ -768,7 +768,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_AUTO_PANNER.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>4c27113c-2a49-4b5c-9a6b-729febbd4da4 a72ace9f-dce4-4442-b00f-58e1f44600dc 07cde740-ef0a-4a72-8fe7-57b60bdb0b30</tstamps>
+      <tstamps>a72ace9f-dce4-4442-b00f-58e1f44600dc 4c27113c-2a49-4b5c-9a6b-729febbd4da4 07cde740-ef0a-4a72-8fe7-57b60bdb0b30</tstamps>
     </comp>
   </components>
   <libparts>
@@ -1064,23 +1064,6 @@
         <pin num="3" name="3" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="Device" part="R_Potentiometer_Trim">
-      <description>Trim-potentiometer</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>Potentiometer*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">RV</field>
-        <field name="Value">R_Potentiometer_Trim</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="1" type="passive"/>
-        <pin num="2" name="2" type="passive"/>
-        <pin num="3" name="3" type="passive"/>
-      </pins>
-    </libpart>
     <libpart lib="Diode" part="1N914">
       <description>100V 0.3A Small Signal Fast Switching Diode, DO-35</description>
       <docs>http://www.vishay.com/docs/85622/1n914.pdf</docs>
@@ -1147,6 +1130,23 @@
         <pin num="5" name="BAL2" type="input"/>
         <pin num="6" name="" type="output"/>
         <pin num="7" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="dhk" part="R_Potentiometer_Trim">
+      <description>Trim-potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer_Trim</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
       </pins>
     </libpart>
   </libparts>

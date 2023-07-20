@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/hw/kicad_projects/synth/MFOS_STEREO_MIXER/MFOS_STEREO_MIXER.kicad_sch</source>
-    <date>Sun 02 Jul 2023 12:12:54 PM EDT</date>
+    <date>Wed 12 Jul 2023 08:14:48 AM EDT</date>
     <tool>Eeschema 6.0.8-f2edbf62ab~116~ubuntu22.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -377,7 +377,7 @@
       <tstamps>719de9fc-2af3-46c3-94fa-3312979bf6c4</tstamps>
     </comp>
     <comp ref="J1">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_MIXER.kicad_sch"/>
@@ -385,7 +385,7 @@
       <tstamps>b08a3cba-abdd-420d-8844-68e9e8984305</tstamps>
     </comp>
     <comp ref="J2">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_MIXER.kicad_sch"/>
@@ -393,7 +393,7 @@
       <tstamps>724c3dec-804a-4cb5-9edb-0e1a787055c1</tstamps>
     </comp>
     <comp ref="J3">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_MIXER.kicad_sch"/>
@@ -401,7 +401,7 @@
       <tstamps>88bb0293-642e-460d-9fb3-c1a22c99451a</tstamps>
     </comp>
     <comp ref="J4">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_MIXER.kicad_sch"/>
@@ -409,7 +409,7 @@
       <tstamps>c9c2f7a6-b49e-4719-9fd9-317a63711acf</tstamps>
     </comp>
     <comp ref="J5">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_MIXER.kicad_sch"/>
@@ -417,7 +417,7 @@
       <tstamps>7845ae1d-09c8-4717-bb07-f6e97ba9059c</tstamps>
     </comp>
     <comp ref="J6">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_MIXER.kicad_sch"/>
@@ -425,7 +425,7 @@
       <tstamps>40f34560-fbfd-4745-ab51-718d18a9c166</tstamps>
     </comp>
     <comp ref="J7">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_MIXER.kicad_sch"/>
@@ -433,7 +433,7 @@
       <tstamps>ea74c592-0abc-45ad-a6cb-c1323dc4d5c3</tstamps>
     </comp>
     <comp ref="J8">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_MIXER.kicad_sch"/>
@@ -441,7 +441,7 @@
       <tstamps>66020960-e5f7-420d-be19-e1df0b5d06fd</tstamps>
     </comp>
     <comp ref="J9">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_MIXER.kicad_sch"/>
@@ -449,7 +449,7 @@
       <tstamps>36e20fa5-7cee-4bc8-b03b-a69f2a414b71</tstamps>
     </comp>
     <comp ref="J10">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_MIXER.kicad_sch"/>
@@ -457,7 +457,7 @@
       <tstamps>af6e9b7c-d4d2-4972-ba50-07be6b64a6e8</tstamps>
     </comp>
     <comp ref="J11">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_MIXER.kicad_sch"/>
@@ -465,7 +465,7 @@
       <tstamps>2f94a34e-fd24-44f6-a0f4-6bd83c23fd8a</tstamps>
     </comp>
     <comp ref="J12">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_MIXER.kicad_sch"/>
@@ -473,7 +473,7 @@
       <tstamps>9e11a7da-12c4-4b30-a1e3-b4f291299909</tstamps>
     </comp>
     <comp ref="J13">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_MIXER.kicad_sch"/>
@@ -481,7 +481,7 @@
       <tstamps>03fda4ca-1788-41c9-a2f0-5562de9d5b1e</tstamps>
     </comp>
     <comp ref="J14">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_MIXER.kicad_sch"/>
@@ -489,7 +489,7 @@
       <tstamps>f99e7131-70ad-471a-b174-d27a283bab66</tstamps>
     </comp>
     <comp ref="J15">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_MIXER.kicad_sch"/>
@@ -497,7 +497,7 @@
       <tstamps>bfa5e77d-1253-4ad4-b87e-fa542976baa7</tstamps>
     </comp>
     <comp ref="J16">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_MIXER.kicad_sch"/>
@@ -513,7 +513,7 @@
       <tstamps>88961413-d0d6-49ca-b6a9-2d9414ddd2a3</tstamps>
     </comp>
     <comp ref="J18">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_MIXER.kicad_sch"/>
@@ -521,7 +521,7 @@
       <tstamps>48caa885-64bb-439f-bca8-ae97c6a65c04</tstamps>
     </comp>
     <comp ref="J19">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_MIXER.kicad_sch"/>
@@ -1235,7 +1235,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_STEREO_MIXER.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>697b0e4c-2114-4805-80ea-09b8a37004f3 d726e483-5185-4159-bece-f374e155c36d 37c7a75d-5253-44d5-ac1a-d1c7e609b169</tstamps>
+      <tstamps>d726e483-5185-4159-bece-f374e155c36d 697b0e4c-2114-4805-80ea-09b8a37004f3 37c7a75d-5253-44d5-ac1a-d1c7e609b169</tstamps>
     </comp>
     <comp ref="U6">
       <value>TL072</value>

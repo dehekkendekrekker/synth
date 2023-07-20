@@ -1,5 +1,5 @@
 "Source:","/home/hw/kicad_projects/synth/MFOS_SEQ_ANALOG/MFOS_SEQ_ANALOG.kicad_sch"
-"Date:","Sun 02 Jul 2023 11:17:57 AM EDT"
+"Date:","Thu 20 Jul 2023 02:09:54 PM EDT"
 "Tool:","Eeschema 6.0.8-f2edbf62ab~116~ubuntu22.04.1"
 "Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
 "Component Count:","88"
@@ -8,8 +8,8 @@
 
 "Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
 "","","C1",".1uF","Device:C","","~"
-"","","C2","100uF","Device:C","","~"
-"","","C3","100uF","Device:C","","~"
+"","","C2","100uF","Device:C_Polarized","","~"
+"","","C3","100uF","Device:C_Polarized","","~"
 "","","C4",".1uF","Device:C","","~"
 "","","C5","470pF","Device:C","","~"
 "","","C6","470pF","Device:C","","~"
@@ -102,7 +102,7 @@
 
 "Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
 "1","2","C1, C4",".1uF","Device:C","","~"
-"2","2","C2, C3","100uF","Device:C","","~"
+"2","2","C2, C3","100uF","Device:C_Polarized","","~"
 "3","2","C5, C6","470pF","Device:C","","~"
 "4","4","J11, J12, J13, J14","Jack-DC","Connector:Jack-DC","","~"
 "5","3","R1, R72, R74","10K","Device:R","","~"

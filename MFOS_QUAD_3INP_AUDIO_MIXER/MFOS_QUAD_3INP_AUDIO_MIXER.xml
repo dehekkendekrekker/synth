@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/hw/kicad_projects/synth/MFOS_QUAD_3INP_AUDIO_MIXER/MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch</source>
-    <date>Sun 02 Jul 2023 10:49:42 AM EDT</date>
+    <date>Wed 12 Jul 2023 01:52:58 PM EDT</date>
     <tool>Eeschema 6.0.8-f2edbf62ab~116~ubuntu22.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -251,7 +251,7 @@
     </comp>
     <comp ref="C29">
       <value>10uF</value>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -259,7 +259,7 @@
     </comp>
     <comp ref="C30">
       <value>10uF</value>
-      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -929,7 +929,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>7fd80054-2067-43e1-b686-71ebcbfdadde 4ca27794-ab29-4c54-9993-33ea02c730bb c52481f8-19f2-4992-a8b7-d0b83a62909f 652461f6-251e-462e-8825-73540c79fc00 08bbc73b-36e9-4774-bf91-d9e26c074228</tstamps>
+      <tstamps>7fd80054-2067-43e1-b686-71ebcbfdadde c52481f8-19f2-4992-a8b7-d0b83a62909f 4ca27794-ab29-4c54-9993-33ea02c730bb 652461f6-251e-462e-8825-73540c79fc00 08bbc73b-36e9-4774-bf91-d9e26c074228</tstamps>
     </comp>
     <comp ref="U2">
       <value>TL074</value>
@@ -947,7 +947,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>447d12b9-86ec-47eb-8316-59454cf34b5c 67c2081c-af0b-4568-a2dc-297990f64709 8e673604-7cf6-45a0-8103-1c3a6d8427e5 2b02fa24-711c-4d32-a578-5620b7e9f13c 2a251801-2722-4545-83ac-4f493dd75646</tstamps>
+      <tstamps>67c2081c-af0b-4568-a2dc-297990f64709 8e673604-7cf6-45a0-8103-1c3a6d8427e5 447d12b9-86ec-47eb-8316-59454cf34b5c 2b02fa24-711c-4d32-a578-5620b7e9f13c 2a251801-2722-4545-83ac-4f493dd75646</tstamps>
     </comp>
     <comp ref="U4">
       <value>TL074</value>
@@ -956,7 +956,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_AUDIO_MIXER.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>6a18d67c-3960-42e0-a77a-fe6cba1c08d5 915680c6-8f33-4192-b96a-36c95abec774 41e07d30-52f2-41e7-99c0-55ecce0ce5b1 9de4f868-1047-4516-8be6-41e6cfa591c3 0280281d-f6c4-476d-a89e-b4ef7f1326dc</tstamps>
+      <tstamps>915680c6-8f33-4192-b96a-36c95abec774 6a18d67c-3960-42e0-a77a-fe6cba1c08d5 41e07d30-52f2-41e7-99c0-55ecce0ce5b1 9de4f868-1047-4516-8be6-41e6cfa591c3 0280281d-f6c4-476d-a89e-b4ef7f1326dc</tstamps>
     </comp>
   </components>
   <libparts>
@@ -1032,6 +1032,22 @@
       <fields>
         <field name="Reference">C</field>
         <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
         <field name="Datasheet">~</field>
       </fields>
       <pins>

@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/hw/kicad_projects/synth/MFOS_RING_MOD/MFOS_RING_MOD.kicad_sch</source>
-    <date>Sun 02 Jul 2023 11:05:17 AM EDT</date>
+    <date>Thu 20 Jul 2023 01:47:16 PM EDT</date>
     <tool>Eeschema 6.0.8-f2edbf62ab~116~ubuntu22.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -202,56 +202,50 @@
       <tstamps>e4e89614-57cc-4bf3-8909-758c59a8f58a</tstamps>
     </comp>
     <comp ref="J1">
-      <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <value>Jack-DC</value>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_RING_MOD.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8ddaf12a-7bd8-481a-a443-e2cd3e8ff093</tstamps>
     </comp>
     <comp ref="J2">
-      <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <value>Jack-DC</value>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_RING_MOD.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b1c34899-6b12-4166-9455-593f486d378b</tstamps>
     </comp>
     <comp ref="J3">
-      <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <value>Jack-DC</value>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_RING_MOD.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f0351bd2-8ecf-43e3-88b0-8b098da54de0</tstamps>
     </comp>
     <comp ref="J4">
-      <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <value>Jack-DC</value>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_RING_MOD.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>403fd629-e2d4-45b1-9460-61f1973a54b5</tstamps>
     </comp>
     <comp ref="J5">
-      <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <value>Jack-DC</value>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_RING_MOD.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4e6db472-a629-4005-bcb4-8ec44101d7b9</tstamps>
     </comp>
     <comp ref="J6">
-      <value>Barrel_Jack</value>
-      <libsource lib="Connector" part="Barrel_Jack" description="DC Barrel Jack"/>
+      <value>Jack-DC</value>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_RING_MOD.kicad_sch"/>
-      <property name="exclude_from_board"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3a8251bb-2ba0-40ea-888e-23daf4abf5e0</tstamps>
     </comp>
@@ -411,7 +405,7 @@
     </comp>
     <comp ref="R16">
       <value>50K</value>
-      <libsource lib="Device" part="R_Potentiometer_Trim" description="Trim-potentiometer"/>
+      <libsource lib="dhk" part="R_Potentiometer_Trim" description="Trim-potentiometer"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_RING_MOD.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -500,7 +494,7 @@
       <tstamps>b74d0a92-b6e6-46fb-a993-264501de533b</tstamps>
     </comp>
     <comp ref="R27">
-      <value>1.8M</value>
+      <value>1.8K</value>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_RING_MOD.kicad_sch"/>
@@ -725,7 +719,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_RING_MOD.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>9db84170-fac0-43a9-8517-cb23b40ac04a 75149f5d-2679-485c-8f38-08773c37b8f0 e99352fd-262f-4e9e-a96b-027b4aa611c1 4dd79111-9348-4579-ac93-3f78f31c41ed 1d539a29-576b-4178-8fee-62100a2ee889</tstamps>
+      <tstamps>75149f5d-2679-485c-8f38-08773c37b8f0 4dd79111-9348-4579-ac93-3f78f31c41ed e99352fd-262f-4e9e-a96b-027b4aa611c1 9db84170-fac0-43a9-8517-cb23b40ac04a 1d539a29-576b-4178-8fee-62100a2ee889</tstamps>
     </comp>
     <comp ref="U2">
       <value>LM13700</value>
@@ -734,7 +728,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_RING_MOD.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>e7ee0fa7-8512-4ab9-8d94-360002b47009 e44a7acf-526f-4374-b954-f3dd5d998f1e 23a4a001-90ae-4ba2-8deb-e52b217700cd d3649000-b084-434c-80e2-a5e2a8e9e21d 08a62de1-7f4d-444e-8cac-c41ca56d0984</tstamps>
+      <tstamps>d3649000-b084-434c-80e2-a5e2a8e9e21d e7ee0fa7-8512-4ab9-8d94-360002b47009 e44a7acf-526f-4374-b954-f3dd5d998f1e 23a4a001-90ae-4ba2-8deb-e52b217700cd 08a62de1-7f4d-444e-8cac-c41ca56d0984</tstamps>
     </comp>
     <comp ref="U3">
       <value>TL084</value>
@@ -752,7 +746,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_RING_MOD.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>eaa17c57-e8ef-4db0-9834-b600522bd23c f9554bf1-a6de-4297-9dec-2be1e0f2618d bf1bc1ec-d21d-46a7-aa19-7b0817c76d89 648e882b-bf62-4287-9549-f5f93f60e0cc 24a36246-804e-4d81-97ae-4844cebdc407</tstamps>
+      <tstamps>eaa17c57-e8ef-4db0-9834-b600522bd23c f9554bf1-a6de-4297-9dec-2be1e0f2618d 648e882b-bf62-4287-9549-f5f93f60e0cc bf1bc1ec-d21d-46a7-aa19-7b0817c76d89 24a36246-804e-4d81-97ae-4844cebdc407</tstamps>
     </comp>
     <comp ref="U5">
       <value>AD633</value>
@@ -827,7 +821,7 @@
         <pin num="14" name="" type="output"/>
       </pins>
     </libpart>
-    <libpart lib="Connector" part="Barrel_Jack">
+    <libpart lib="Connector" part="Jack-DC">
       <description>DC Barrel Jack</description>
       <docs>~</docs>
       <footprints>
@@ -835,7 +829,7 @@
       </footprints>
       <fields>
         <field name="Reference">J</field>
-        <field name="Value">Barrel_Jack</field>
+        <field name="Value">Jack-DC</field>
         <field name="Datasheet">~</field>
       </fields>
       <pins>
@@ -923,23 +917,6 @@
         <pin num="3" name="3" type="passive"/>
       </pins>
     </libpart>
-    <libpart lib="Device" part="R_Potentiometer_Trim">
-      <description>Trim-potentiometer</description>
-      <docs>~</docs>
-      <footprints>
-        <fp>Potentiometer*</fp>
-      </footprints>
-      <fields>
-        <field name="Reference">RV</field>
-        <field name="Value">R_Potentiometer_Trim</field>
-        <field name="Datasheet">~</field>
-      </fields>
-      <pins>
-        <pin num="1" name="1" type="passive"/>
-        <pin num="2" name="2" type="passive"/>
-        <pin num="3" name="3" type="passive"/>
-      </pins>
-    </libpart>
     <libpart lib="Switch" part="SW_SPDT">
       <description>Switch, single pole double throw</description>
       <docs>~</docs>
@@ -999,6 +976,23 @@
         <pin num="6" name="Z" type="input"/>
         <pin num="7" name="W" type="output"/>
         <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="dhk" part="R_Potentiometer_Trim">
+      <description>Trim-potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer_Trim</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
       </pins>
     </libpart>
   </libparts>

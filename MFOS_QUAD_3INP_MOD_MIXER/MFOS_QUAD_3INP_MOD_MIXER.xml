@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/hw/kicad_projects/synth/MFOS_QUAD_3INP_MOD_MIXER/MFOS_QUAD_3INP_MOD_MIXER.kicad_sch</source>
-    <date>Sun 02 Jul 2023 10:55:58 AM EDT</date>
+    <date>Wed 12 Jul 2023 07:46:11 AM EDT</date>
     <tool>Eeschema 6.0.8-f2edbf62ab~116~ubuntu22.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -121,7 +121,7 @@
       <tstamps>42977a1e-8b09-4404-9e1a-81aa77008e9c</tstamps>
     </comp>
     <comp ref="J1">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
@@ -129,7 +129,7 @@
       <tstamps>69bb8b77-776d-4020-aebb-849848b74076</tstamps>
     </comp>
     <comp ref="J2">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
@@ -137,7 +137,7 @@
       <tstamps>7f380d16-20e6-4b72-89fe-e85fb9638962</tstamps>
     </comp>
     <comp ref="J3">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
@@ -145,7 +145,7 @@
       <tstamps>e62f8fb4-7e2e-4474-bb76-d4b9c85935dd</tstamps>
     </comp>
     <comp ref="J4">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
@@ -153,7 +153,7 @@
       <tstamps>745902a9-8c4d-424e-8f1d-ecf918995be5</tstamps>
     </comp>
     <comp ref="J5">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
@@ -161,7 +161,7 @@
       <tstamps>2f6a8036-612a-4ddf-b1f3-7158744db3fb</tstamps>
     </comp>
     <comp ref="J6">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
@@ -169,7 +169,7 @@
       <tstamps>134e84da-84bf-4924-ac9f-47370cd1f245</tstamps>
     </comp>
     <comp ref="J7">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
@@ -177,7 +177,7 @@
       <tstamps>ea2a477f-7d99-4703-b5f8-e3a0d0ab0d66</tstamps>
     </comp>
     <comp ref="J8">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
@@ -185,7 +185,7 @@
       <tstamps>ffe420e4-d538-4a07-acc6-fdbb9e9daf8b</tstamps>
     </comp>
     <comp ref="J9">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
@@ -193,7 +193,7 @@
       <tstamps>864a74f7-ae80-4f3c-a753-1b7c4aa80e32</tstamps>
     </comp>
     <comp ref="J10">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
@@ -201,7 +201,7 @@
       <tstamps>5fd35e3a-b92b-4cc9-9eb5-6cb61908b076</tstamps>
     </comp>
     <comp ref="J11">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
@@ -209,7 +209,7 @@
       <tstamps>41705878-4e1a-4642-8588-a95dfc134f18</tstamps>
     </comp>
     <comp ref="J12">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
@@ -217,7 +217,7 @@
       <tstamps>90fcd047-32a5-4942-bc09-f2c31654be94</tstamps>
     </comp>
     <comp ref="J13">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
@@ -225,7 +225,7 @@
       <tstamps>4949d059-7b66-4306-8333-099c2a2aca12</tstamps>
     </comp>
     <comp ref="J14">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
@@ -233,7 +233,7 @@
       <tstamps>b4a7f424-32c3-4446-8499-9015b46f2c15</tstamps>
     </comp>
     <comp ref="J15">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
@@ -241,7 +241,7 @@
       <tstamps>61d231a0-dc98-46b8-8104-cf75a78df633</tstamps>
     </comp>
     <comp ref="J16">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
@@ -249,7 +249,7 @@
       <tstamps>63de1d0f-b114-40a0-a180-98d328d0e12b</tstamps>
     </comp>
     <comp ref="J17">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
@@ -257,7 +257,7 @@
       <tstamps>67e5f85f-9474-42df-bc0c-bd49c5b9d9d0</tstamps>
     </comp>
     <comp ref="J18">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
@@ -265,7 +265,7 @@
       <tstamps>a8b59ba0-da3d-47ce-9f92-9e6f12ec51b5</tstamps>
     </comp>
     <comp ref="J19">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
@@ -273,7 +273,7 @@
       <tstamps>4d9b213b-89ba-4323-b654-a8f8fb38cd9e</tstamps>
     </comp>
     <comp ref="J20">
-      <value>Barrel_Jack</value>
+      <value>Jack-DC</value>
       <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
@@ -817,7 +817,7 @@
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="File: MFOS_QUAD_3INP_MOD_MIXER.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>db01580e-d0f2-4a8f-bf86-d522c3ef4bfc aa6d0b22-caa6-4292-808e-e10a1b636d90 9c02cddd-3630-4e1a-8250-ebfd52276ecd 6e22ef20-6346-4501-b17a-3f14fa8fdb54 485e65c1-de29-4006-9868-adf352fb4367</tstamps>
+      <tstamps>db01580e-d0f2-4a8f-bf86-d522c3ef4bfc aa6d0b22-caa6-4292-808e-e10a1b636d90 6e22ef20-6346-4501-b17a-3f14fa8fdb54 9c02cddd-3630-4e1a-8250-ebfd52276ecd 485e65c1-de29-4006-9868-adf352fb4367</tstamps>
     </comp>
   </components>
   <libparts>
