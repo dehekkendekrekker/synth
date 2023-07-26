@@ -4,6 +4,7 @@ from pathlib import Path
 import json
 import csv
 from loguru import logger
+from argparse import ArgumentParser
 
 
 class Component:
@@ -59,7 +60,6 @@ class Components:
 
            
     def get(self, value, library):
-        print("%s--%s" % (value, library))
         idx_first = (value, library)
         idx_second = (value, None)
         if idx_first in self.idx:
@@ -79,24 +79,42 @@ class Components:
 
 
 MAPPING = "Mapping"
+QTY_BOARDS = "QtyBoards"
+BOM = "BOM"
 
 components = Components()
 items = []
 quantities = {}
-
+qty_boards = {}
 
 
 def update_quantities():
     logger.info("Updating quantities")
     global items
+    global quantities
     item : Item
     for item in items:
-        #print(item)
         component = components.get(item.value, item.library)
         if component not in quantities:
             quantities[component] = 0
         
         quantities[component] += item.qty
+
+
+def update_BOM_sheet(sheets):
+    data = [[x.mouser_partnr, qty] for x, qty in quantities.items()]
+    sheets[BOM] = data
+
+
+
+
+
+def display_quantities():
+    for key,qty in quantities.items():
+        print("%s %s" % (key.mouser_partnr, qty))
+
+
+
         
     
 def load_components(component_sheet):
@@ -114,15 +132,36 @@ def load_components(component_sheet):
 
         components.append(Component(name, library, value,mouser_partnr))
 
-def load_items(items_sheet):
-    
+def load_items(sheets, sheet_name):
+    if sheet_name not in qty_boards:
+        logger.warning("No entry of {} in {} sheet", sheet_name, QTY_BOARDS)
+        return
+
+    if qty_boards[sheet_name] == 0:
+        logger.warning("Quantity of sheet {} is set to zero. Items in this sheet will not be used for the BOM")
+        return
+
+    board_qty = qty_boards[sheet_name]
+
     global items
-    for row in items_sheet[1:]:
-        #print(row)
+    for row in sheets[sheet_name][1:]:
         if not row:
             break
 
-        items.append(Item(qty=row[1], value=row[3], library=row[4]))
+        qty = board_qty * row[1]
+        items.append(Item(qty=qty, value=row[3], library=row[4]))
+
+
+def load_qty_boards(qty_boards_sheet):
+    global qty_boards
+    for row in qty_boards_sheet:
+        if not row:
+            break
+        qty_boards[row[0]] = row[1]
+
+    
+
+
 
 def get_collated_data(file):
     ST_SEARCHING=0
@@ -162,35 +201,36 @@ def get_collated_data(file):
 
     
 
+# === Start ===
 
+parser = ArgumentParser()
+parser.add_argument("--filename")
+args = parser.parse_args()
             
 
-odsbom = get_data("BOM.ods")
+sheets = get_data(args.filename)
 
-load_components(odsbom[MAPPING])
-
-logger.info(components)
-print(components.idx)
-
-
+load_components(sheets[MAPPING])
+load_qty_boards(sheets[QTY_BOARDS])
 
 # Get all .csv files
 pathlist = Path(".").glob('**/*.csv')
 for path in pathlist:
     data = get_collated_data(path)
-    tabname = str(path).split("/")[0]
-    odsbom[tabname] = data
+    sheet_name = str(path).split("/")[0]
+    sheets[sheet_name] = data
 
-    print("Loading items from sheet [{}]", tabname)
-    load_items(odsbom[tabname])
+    logger.info("Loading items from sheet [{}]", sheet_name)
+    load_items(sheets,sheet_name)
 
 
 
 update_quantities()
+display_quantities()
+update_BOM_sheet(sheets)
 
 
 
 
-
-save_data("BOM.ods", odsbom)
+save_data(args.filename, sheets)
      
