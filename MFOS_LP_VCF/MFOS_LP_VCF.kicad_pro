@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "MFOS_STEREO_MIXER.kicad_pro",
+    "filename": "MFOS_LP_VCF.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -318,20 +318,8 @@
   },
   "sheets": [
     [
-      "9ae8166f-d815-4ec7-adf0-41e28ef430b2",
+      "be56f025-27f2-4c14-b942-8621d1c69487",
       ""
-    ],
-    [
-      "fd6efb81-eb47-4fa0-b53f-a25a084e0f5f",
-      "Sheet 1"
-    ],
-    [
-      "e52ae734-9a58-41c0-a57b-31b1fcac3326",
-      "Sheet2"
-    ],
-    [
-      "9da793f8-0049-4fb7-a852-3ce5b85c9823",
-      "Sheet 3"
     ]
   ],
   "text_variables": {}
