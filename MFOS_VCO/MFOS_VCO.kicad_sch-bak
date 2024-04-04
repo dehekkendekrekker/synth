@@ -3270,7 +3270,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x04") (at 107.95 142.24 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1edc5437-6f24-4db0-b7c3-a15a255b4826)
-    (property "Reference" "J?" (id 0) (at 110.49 143.5099 0)
+    (property "Reference" "J15" (id 0) (at 110.49 143.5099 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x04" (id 1) (at 110.49 144.7799 0)
@@ -3466,7 +3466,7 @@
   (symbol (lib_id "power:GND") (at 50.8 166.37 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 41b4d0ec-2930-4ce1-9e3a-99276355a9f0)
-    (property "Reference" "#PWR?" (id 0) (at 50.8 172.72 0)
+    (property "Reference" "#PWR01" (id 0) (at 50.8 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 50.8 171.45 0))
@@ -3998,7 +3998,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x02") (at 57.15 162.56 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9264d64e-4464-4e65-b3be-3378b389b494)
-    (property "Reference" "J?" (id 0) (at 59.69 163.8299 0)
+    (property "Reference" "J14" (id 0) (at 59.69 163.8299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x02" (id 1) (at 59.69 165.0999 0)
@@ -4799,6 +4799,9 @@
     (path "/6b081662-bc5c-4fb8-a2b2-c8e656b68a35"
       (reference "#FLG0103") (unit 1) (value "PWR_FLAG") (footprint "")
     )
+    (path "/41b4d0ec-2930-4ce1-9e3a-99276355a9f0"
+      (reference "#PWR01") (unit 1) (value "GND") (footprint "")
+    )
     (path "/6af7808a-576d-4e54-942a-518a17b895ef"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
@@ -4937,9 +4940,6 @@
     (path "/e455245a-899a-45ab-a128-cae0d233a724"
       (reference "#PWR0146") (unit 1) (value "-12V") (footprint "")
     )
-    (path "/41b4d0ec-2930-4ce1-9e3a-99276355a9f0"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
     (path "/7acdccd5-5114-469a-a864-4d03b27a06bc/2574c859-9aa9-496c-9f57-259078b87f57"
       (reference "C1") (unit 1) (value "0.1uF") (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm")
     )
@@ -4968,10 +4968,10 @@
       (reference "C10") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm")
     )
     (path "/7acdccd5-5114-469a-a864-4d03b27a06bc/a2ba3d86-b784-41bc-a290-3490c56f0b8d"
-      (reference "C12") (unit 1) (value "1uF") (footprint "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm")
+      (reference "C12") (unit 1) (value "1uF") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
     )
     (path "/7acdccd5-5114-469a-a864-4d03b27a06bc/5b8f82f7-50ed-489c-a5e8-c0e3253695fd"
-      (reference "C13") (unit 1) (value "1uF") (footprint "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm")
+      (reference "C13") (unit 1) (value "1uF") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
     )
     (path "/7acdccd5-5114-469a-a864-4d03b27a06bc/f76b011a-7175-4705-974b-7cf75e9e4dac"
       (reference "C14") (unit 1) (value "0.002uF") (footprint "Capacitor_THT:C_Disc_D4.7mm_W2.5mm_P5.00mm")
@@ -5054,6 +5054,12 @@
     (path "/10837bbd-a474-4d5a-b45d-6d8d91870528"
       (reference "J13") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
+    (path "/9264d64e-4464-4e65-b3be-3378b389b494"
+      (reference "J14") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+    )
+    (path "/1edc5437-6f24-4db0-b7c3-a15a255b4826"
+      (reference "J15") (unit 1) (value "Conn_01x04") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+    )
     (path "/08bde9de-ce04-4a90-b4a1-091de9485729"
       (reference "J20") (unit 1) (value "Jack-DC") (footprint "")
     )
@@ -5065,12 +5071,6 @@
     )
     (path "/7acdccd5-5114-469a-a864-4d03b27a06bc/cf6744c7-c8df-4b13-86b1-1b1d7aa15581"
       (reference "J27") (unit 1) (value "Conn_01x03") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
-    )
-    (path "/1edc5437-6f24-4db0-b7c3-a15a255b4826"
-      (reference "J?") (unit 1) (value "Conn_01x04") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
-    )
-    (path "/9264d64e-4464-4e65-b3be-3378b389b494"
-      (reference "J?") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/56fbb28b-a938-4fe3-a621-a9279caa36f8"
       (reference "Q1") (unit 1) (value "PN4391") (footprint "Package_TO_SOT_THT:TO-92")
