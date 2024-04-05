@@ -5070,7 +5070,7 @@
       (reference "J26") (unit 1) (value "Conn_01x03") (footprint "Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical")
     )
     (path "/7acdccd5-5114-469a-a864-4d03b27a06bc/cf6744c7-c8df-4b13-86b1-1b1d7aa15581"
-      (reference "J27") (unit 1) (value "Conn_01x03") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical")
+      (reference "J27") (unit 1) (value "Conn_01x03") (footprint "Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical")
     )
     (path "/56fbb28b-a938-4fe3-a621-a9279caa36f8"
       (reference "Q1") (unit 1) (value "PN4391") (footprint "Package_TO_SOT_THT:TO-92")

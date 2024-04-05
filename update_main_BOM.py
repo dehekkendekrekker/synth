@@ -67,8 +67,7 @@ class Components:
         elif idx_second in self.idx:
             return self.items[self.idx[idx_second]]
         else:
-            logger.error("Error: No component entry for V:%s L:%s" % (value, library))
-            quit()
+            return None
 
     def __str__(self) -> str:
         result = ""
@@ -90,15 +89,25 @@ qty_boards = {}
 
 def update_quantities():
     logger.info("Updating quantities")
+    errors = []
     global items
     global quantities
     item : Item
+
     for item in items:
         component = components.get(item.value, item.library)
+        if component is None:
+            errors.append(item)
         if component not in quantities:
             quantities[component] = 0
         
-        quantities[component] += item.qty
+        quantities[component] += int(item.qty)
+
+    if errors:
+        for item in errors:
+            logger.error("Error: No component entry in mapping tab for V:%s L:%s" % (item.value, item.library))
+        quit()
+
 
 
 def update_BOM_sheet(sheets):
@@ -138,7 +147,7 @@ def load_items(sheets, sheet_name):
         return
 
     if qty_boards[sheet_name] == 0:
-        logger.warning("Quantity of sheet {} is set to zero. Items in this sheet will not be used for the BOM")
+        logger.warning("Quantity of sheet {} is set to zero. Items in this sheet will not be used for the BOM", sheet_name)
         return
 
     board_qty = qty_boards[sheet_name]
@@ -148,7 +157,7 @@ def load_items(sheets, sheet_name):
         if not row:
             break
 
-        qty = board_qty * row[1]
+        qty = board_qty * int(row[1])
         items.append(Item(qty=qty, value=row[3], library=row[4]))
 
 
@@ -204,7 +213,7 @@ def get_collated_data(file):
 # === Start ===
 
 parser = ArgumentParser()
-parser.add_argument("--filename")
+parser.add_argument("--filename", required=True)
 args = parser.parse_args()
             
 

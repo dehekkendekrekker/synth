@@ -3050,7 +3050,7 @@
     (property "Value" "Conn_01x03" (id 1) (at 241.3 119.3799 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" (id 2) (at 238.76 118.11 0)
+    (property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-03A_1x03_P2.54mm_Vertical" (id 2) (at 238.76 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 238.76 118.11 0)
