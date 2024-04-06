@@ -4712,10 +4712,10 @@
   )
 
   (symbol (lib_id "Device:Thermistor_PTC") (at 69.85 104.14 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid f1b4db0c-a110-42f6-b38d-9b3a743d2359)
     (property "Reference" "R24" (id 0) (at 70.1675 97.79 90))
-    (property "Value" "1.5k" (id 1) (at 70.1675 100.33 90))
+    (property "Value" "2k" (id 1) (at 70.1675 100.33 90))
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (id 2) (at 74.93 102.87 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
@@ -5142,7 +5142,7 @@
       (reference "R23") (unit 1) (value "100k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/f1b4db0c-a110-42f6-b38d-9b3a743d2359"
-      (reference "R24") (unit 1) (value "1.5k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
+      (reference "R24") (unit 1) (value "2k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/7acdccd5-5114-469a-a864-4d03b27a06bc/079cc3b0-ee23-4203-8236-a80325b5e4b0"
       (reference "R25") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
